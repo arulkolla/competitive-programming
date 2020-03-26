@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF74345702": {
+    "contest_id": 1311,
+    "language": "PyPy 3",
+    "path": "codeforces/1311/B.py",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "WeirdSort",
+    "problem_url": "https://codeforces.com/contest/1311/problem/B",
+    "submission_id": "CF74345702",
+    "submission_url": "https://codeforces.com/contest/1311/submission/74345702",
+    "tags": [
+      "dfs and similar",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Mar/25/2020 19:05"
+  },
   "CF74350286": {
     "contest_id": 4,
     "language": "GNU C++14",
