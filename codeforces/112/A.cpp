@@ -1,9 +1,9 @@
 #include <iostream>
 #include <ctype.h>
 #include <algorithm>
- 
+
 using namespace std;
- 
+
 int main() {
     std::string p, q;
     cin >> p >> q;
