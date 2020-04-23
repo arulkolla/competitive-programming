@@ -746,6 +746,22 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF77715381": {
+    "contest_id": 25,
+    "language": "GNU C++14",
+    "path": "codeforces/25/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "IQ test",
+    "problem_url": "https://codeforces.com/contest/25/problem/A",
+    "submission_id": "CF77715381",
+    "submission_url": "https://codeforces.com/contest/25/submission/77715381",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Apr/22/2020 22:39"
+  },
   "CF77813426": {
     "contest_id": 492,
     "language": "GNU C++14",
