@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF78081146": {
+    "contest_id": 1341,
+    "language": "GNU C++14",
+    "path": "codeforces/1341/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Nastya and Door",
+    "problem_url": "https://codeforces.com/contest/1341/problem/B",
+    "submission_id": "CF78081146",
+    "submission_url": "https://codeforces.com/contest/1341/submission/78081146",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Apr/25/2020 21:22"
+  },
   "CF78171820": {
     "contest_id": 1342,
     "language": "GNU C++14",
