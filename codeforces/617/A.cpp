@@ -13,6 +13,10 @@
 
 using namespace std;
 
+bool isVowel(char c) {
+    cout << (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u');
+}
+
 void solve() {
     int x;
     cin >> x;
