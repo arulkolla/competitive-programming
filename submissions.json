@@ -746,6 +746,22 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF81059639": {
+    "contest_id": 1213,
+    "language": "GNU C++14",
+    "path": "codeforces/1213/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chips Moving",
+    "problem_url": "https://codeforces.com/contest/1213/problem/A",
+    "submission_id": "CF81059639",
+    "submission_url": "https://codeforces.com/contest/1213/submission/81059639",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/23/2020 21:23"
+  },
   "CF81096284": {
     "contest_id": 1005,
     "language": "GNU C++14",
