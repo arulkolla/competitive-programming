@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF81421757": {
+    "contest_id": 499,
+    "language": "GNU C++14",
+    "path": "codeforces/499/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Lecture",
+    "problem_url": "https://codeforces.com/contest/499/problem/B",
+    "submission_id": "CF81421757",
+    "submission_url": "https://codeforces.com/contest/499/submission/81421757",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "May/25/2020 14:07"
+  },
   "CF81422585": {
     "contest_id": 1234,
     "language": "GNU C++14",
