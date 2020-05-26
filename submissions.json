@@ -746,6 +746,22 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF81428432": {
+    "contest_id": 624,
+    "language": "GNU C++14",
+    "path": "codeforces/624/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Save Luke",
+    "problem_url": "https://codeforces.com/contest/624/problem/A",
+    "submission_id": "CF81428432",
+    "submission_url": "https://codeforces.com/contest/624/submission/81428432",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/25/2020 18:23"
+  },
   "CF81434913": {
     "contest_id": 959,
     "language": "GNU C++14",
