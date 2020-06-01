@@ -1,4 +1,20 @@
 {
+  "AC13938177": {
+    "contest_id": "abc168",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc168/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "... (Triple Dots)",
+    "problem_url": "https://atcoder.jp/contests/abc168/tasks/abc168_b",
+    "submission_id": "AC13938177",
+    "submission_url": "https://atcoder.jp/contests/abc168/submissions/13938177",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jun/01/2020 14:40"
+  },
   "AC13938911": {
     "contest_id": "abc168",
     "language": "C++ (GCC 9.2.1)",
