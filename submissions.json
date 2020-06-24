@@ -1,4 +1,20 @@
 {
+  "AC14665729": {
+    "contest_id": "abc166",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc166/F.cpp",
+    "platform": "AtCoder",
+    "problem_index": "F",
+    "problem_name": "Three Variables Game",
+    "problem_url": "https://atcoder.jp/contests/abc166/tasks/abc166_f",
+    "submission_id": "AC14665729",
+    "submission_url": "https://atcoder.jp/contests/abc166/submissions/14665729",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Jun/24/2020 14:35"
+  },
   "AC14791856": {
     "contest_id": "abc172",
     "language": "C++ (GCC 9.2.1)",
