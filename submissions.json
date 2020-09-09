@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF92383992": {
+    "contest_id": 140,
+    "language": "GNU C++14",
+    "path": "codeforces/140/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "New Year Table",
+    "problem_url": "https://codeforces.com/contest/140/problem/A",
+    "submission_id": "CF92383992",
+    "submission_url": "https://codeforces.com/contest/140/submission/92383992",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Sep/09/2020 13:11"
+  },
   "CF92469985": {
     "contest_id": 959,
     "language": "GNU C++14",
