@@ -746,6 +746,26 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF92469985": {
+    "contest_id": 959,
+    "language": "GNU C++14",
+    "path": "codeforces/959/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Mahmoud and Ehab and the xor-MST",
+    "problem_url": "https://codeforces.com/contest/959/problem/E",
+    "submission_id": "CF92469985",
+    "submission_url": "https://codeforces.com/contest/959/submission/92469985",
+    "tags": [
+      "bitmasks",
+      "dp",
+      "graphs",
+      "implementation",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Sep/10/2020 21:58"
+  },
   "CF92536497": {
     "contest_id": 14,
     "language": "GNU C++14",
