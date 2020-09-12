@@ -746,6 +746,24 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF92584743": {
+    "contest_id": 1406,
+    "language": "GNU C++14",
+    "path": "codeforces/1406/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subset Mex",
+    "problem_url": "https://codeforces.com/contest/1406/problem/A",
+    "submission_id": "CF92584743",
+    "submission_url": "https://codeforces.com/contest/1406/submission/92584743",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Sep/12/2020 06:51"
+  },
   "CF92602951": {
     "contest_id": 1406,
     "language": "GNU C++14",
