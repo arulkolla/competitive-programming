@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF92997608": {
+    "contest_id": 989,
+    "language": "GNU C++14",
+    "path": "codeforces/989/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "A Mist of Florescence",
+    "problem_url": "https://codeforces.com/contest/989/problem/C",
+    "submission_id": "CF92997608",
+    "submission_url": "https://codeforces.com/contest/989/submission/92997608",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "*1800"
+    ],
+    "timestamp": "Sep/16/2020 10:41"
+  },
   "CF92997953": {
     "contest_id": 1147,
     "language": "GNU C++14",
