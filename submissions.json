@@ -746,6 +746,25 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF93088184": {
+    "contest_id": 621,
+    "language": "GNU C++14",
+    "path": "codeforces/621/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Wet Shark and Flowers",
+    "problem_url": "https://codeforces.com/contest/621/problem/C",
+    "submission_id": "CF93088184",
+    "submission_url": "https://codeforces.com/contest/621/submission/93088184",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory",
+      "probabilities",
+      "*1700"
+    ],
+    "timestamp": "Sep/17/2020 21:27"
+  },
   "CF93089899": {
     "contest_id": 452,
     "language": "GNU C++14",
