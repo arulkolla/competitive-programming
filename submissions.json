@@ -746,6 +746,24 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF93978409": {
+    "contest_id": 1417,
+    "language": "GNU C++14",
+    "path": "codeforces/1417/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1417/problem/B",
+    "submission_id": "CF93978409",
+    "submission_url": "https://codeforces.com/contest/1417/submission/93978409",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Sep/27/2020 08:20"
+  },
   "CF94010017": {
     "contest_id": 1417,
     "language": "GNU C++14",
