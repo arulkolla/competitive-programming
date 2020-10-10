@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF95093548": {
+    "contest_id": 1427,
+    "language": "GNU C++14",
+    "path": "codeforces/1427/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Avoiding Zero",
+    "problem_url": "https://codeforces.com/contest/1427/problem/A",
+    "submission_id": "CF95093548",
+    "submission_url": "https://codeforces.com/contest/1427/submission/95093548",
+    "tags": [
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Oct/10/2020 07:54"
+  },
   "CF95297878": {
     "contest_id": 1430,
     "language": "GNU C++14",
