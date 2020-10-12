@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF95315115": {
+    "contest_id": 430,
+    "language": "GNU C++14",
+    "path": "codeforces/430/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Points and Segments (easy)",
+    "problem_url": "https://codeforces.com/contest/430/problem/A",
+    "submission_id": "CF95315115",
+    "submission_url": "https://codeforces.com/contest/430/submission/95315115",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Oct/11/2020 22:39"
+  },
   "CF95524172": {
     "contest_id": 735,
     "language": "GNU C++14",
