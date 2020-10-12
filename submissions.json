@@ -746,6 +746,22 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF95313791": {
+    "contest_id": 424,
+    "language": "GNU C++14",
+    "path": "codeforces/424/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Magic Formulas",
+    "problem_url": "https://codeforces.com/contest/424/problem/C",
+    "submission_id": "CF95313791",
+    "submission_url": "https://codeforces.com/contest/424/submission/95313791",
+    "tags": [
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Oct/11/2020 22:12"
+  },
   "CF95314627": {
     "contest_id": 272,
     "language": "GNU C++14",
