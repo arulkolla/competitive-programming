@@ -746,6 +746,24 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF95314627": {
+    "contest_id": 272,
+    "language": "GNU C++14",
+    "path": "codeforces/272/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Dima and Two Sequences",
+    "problem_url": "https://codeforces.com/contest/272/problem/D",
+    "submission_id": "CF95314627",
+    "submission_url": "https://codeforces.com/contest/272/submission/95314627",
+    "tags": [
+      "combinatorics",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Oct/11/2020 22:29"
+  },
   "CF95315115": {
     "contest_id": 430,
     "language": "GNU C++14",
