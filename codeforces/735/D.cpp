@@ -13,31 +13,29 @@ using namespace std;
 const int MAX = 200007;
 const int MOD = 1000000007;
 
-bool isPrime(int n) { 
-    // Corner cases 
-    if (n <= 1) 
-        return false; 
-    if (n <= 3) 
-        return true; 
-  
-    // This is checked so that we can skip 
-    // middle five numbers in below loop 
-    if (n % 2 == 0 || n % 3 == 0) 
-        return false; 
-  
-    for (int i = 5; i * i <= n; i = i + 6) 
-        if (n % i == 0 || n % (i + 2) == 0) 
-            return false; 
-  
+bool isPrime(long n)  { 
+    if (n <= 1) {return false;} 
+    if (n <= 3) {return true;}
+    if (n % 2 == 0 || n % 3 == 0) {return false;}
+    for (int i = 5; i * i <= n; i = i + 6) {
+    	if (n%i == 0 || n%(i+2) == 0) {return false;}
+    } 
     return true; 
 } 
 
 void solve() {
-	int n;
+	long n;
 	cin >> n;
 	if (isPrime(n)) {cout << 1;}
-	else if (isPrime(n - 2) || n % 2 == 0) {cout << 2;}
-	else {cout << 3;}
+	else {
+		if (n % 2) {
+			if (isPrime(n - 2)) {cout << 2;}
+			else {cout << 3;}
+		}
+		else {
+			cout << 2;
+		}
+	}
 }
 
 int main() {
