@@ -16,8 +16,19 @@ const int MOD = 1000000007;
 void solve() {
 	long a, b;
 	cin >> a >> b;
-	cout << (a ^ b) << endl;
-}	
+	long c = a, d = b;
+	long val = 0, x = 0; 
+    while (a || b) {  
+        if ((a & 1) && (b & 1)) { 
+            x += (1 << val); 
+        } 
+        a >>= 1; 
+        b >>= 1; 
+        val++; 
+    } 
+	long res = (c ^ x) + (d ^ x);
+	cout << res << endl;
+}
 
 int main() {
     ios::sync_with_stdio(false);
