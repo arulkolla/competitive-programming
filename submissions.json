@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF96033915": {
+    "contest_id": 42,
+    "language": "GNU C++14",
+    "path": "codeforces/42/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Strange town",
+    "problem_url": "https://codeforces.com/contest/42/problem/D",
+    "submission_id": "CF96033915",
+    "submission_url": "https://codeforces.com/contest/42/submission/96033915",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*2300"
+    ],
+    "timestamp": "Oct/19/2020 20:49"
+  },
   "CF96398976": {
     "contest_id": 758,
     "language": "GNU C++14",
