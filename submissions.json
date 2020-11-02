@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF97497947": {
+    "contest_id": 1443,
+    "language": "GNU C++14",
+    "path": "codeforces/1443/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kids Seating",
+    "problem_url": "https://codeforces.com/contest/1443/problem/A",
+    "submission_id": "CF97497947",
+    "submission_url": "https://codeforces.com/contest/1443/submission/97497947",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/02/2020 09:41"
+  },
   "CF97499657": {
     "contest_id": 1443,
     "language": "GNU C++14",
