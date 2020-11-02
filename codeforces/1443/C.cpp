@@ -1,3 +1,4 @@
+
 // Problem: C. The Delivery Dilemma
 // Contest: Codeforces - Codeforces Round #681 (Div. 2, based on VK Cup 2019-2020 - Final)
 // URL: https://codeforces.com/contest/1443/problem/C
@@ -15,7 +16,7 @@ const int MOD = 1000000007;
 void solve() {
 	int n;
 	cin >> n;
-	pair<long long, long long> a[n + 7];
+	pair<long long, long long> a[MAX];
 	for (int i = 0; i < n; i++) {
 		cin >> a[i].first;
 	}
