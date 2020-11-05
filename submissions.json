@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF97677489": {
+    "contest_id": 323,
+    "language": "GNU C++14",
+    "path": "codeforces/323/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Black-and-White Cube",
+    "problem_url": "https://codeforces.com/contest/323/problem/A",
+    "submission_id": "CF97677489",
+    "submission_url": "https://codeforces.com/contest/323/submission/97677489",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "*1600"
+    ],
+    "timestamp": "Nov/04/2020 21:55"
+  },
   "CF97678391": {
     "contest_id": 662,
     "language": "GNU C++14",
