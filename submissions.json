@@ -746,6 +746,25 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF97678391": {
+    "contest_id": 662,
+    "language": "GNU C++14",
+    "path": "codeforces/662/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "International Olympiad",
+    "problem_url": "https://codeforces.com/contest/662/problem/D",
+    "submission_id": "CF97678391",
+    "submission_url": "https://codeforces.com/contest/662/submission/97678391",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Nov/04/2020 22:16"
+  },
   "CF97732952": {
     "contest_id": 1443,
     "language": "GNU C++14",
