@@ -746,6 +746,22 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF99204755": {
+    "contest_id": 772,
+    "language": "GNU C++14",
+    "path": "codeforces/772/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Volatile Kite",
+    "problem_url": "https://codeforces.com/contest/772/problem/B",
+    "submission_id": "CF99204755",
+    "submission_url": "https://codeforces.com/contest/772/submission/99204755",
+    "tags": [
+      "geometry",
+      "*1800"
+    ],
+    "timestamp": "Nov/21/2020 15:34"
+  },
   "CF99205177": {
     "contest_id": 761,
     "language": "GNU C++14",
