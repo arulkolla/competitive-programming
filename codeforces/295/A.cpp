@@ -25,9 +25,7 @@ void solve() {
 		cin >> op[i].first.first >> op[i].first.second >> op[i].second;
 	}
 	long long diff1[m + 7];
-	for (int i = 0; i < m + 7; i++) {
-		diff1[i] = 0;
-	}
+	for (int i = 0; i < m + 7; i++) {diff1[i] = 0;}
 	for (int i = 0; i < k; i++) {
 		int l, r;
 		cin >> l >> r;
@@ -39,9 +37,7 @@ void solve() {
 		op[i].second *= diff1[i];
 	}
 	long long diff[n + 7];
-	for (int i = 0; i < n + 7; i++) {
-		diff[i] = 0;
-	}
+	for (int i = 0; i < n + 7; i++) {diff[i] = 0;}
 	for (int i = 1; i <= m; i++) {
 		diff[op[i].first.first] += op[i].second;
 		diff[op[i].first.second + 1] -= op[i].second;
