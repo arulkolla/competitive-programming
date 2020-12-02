@@ -1,4 +1,20 @@
 {
+  "AC18536942": {
+    "contest_id": "abc061",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc061/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Big Array",
+    "problem_url": "https://atcoder.jp/contests/abc061/tasks/abc061_c",
+    "submission_id": "AC18536942",
+    "submission_url": "https://atcoder.jp/contests/abc061/submissions/18536942",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/02/2020 12:41"
+  },
   "AC18536962": {
     "contest_id": "abc050",
     "language": "C++ (GCC 9.2.1)",
