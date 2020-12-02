@@ -1,4 +1,22 @@
 {
+  "CF100158184": {
+    "contest_id": 160,
+    "language": "GNU C++14",
+    "path": "codeforces/160/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find Pair",
+    "problem_url": "https://codeforces.com/contest/160/problem/C",
+    "submission_id": "CF100158184",
+    "submission_url": "https://codeforces.com/contest/160/submission/100158184",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Dec/01/2020 21:19"
+  },
   "CF100319002": {
     "contest_id": 1352,
     "language": "GNU C++14",
