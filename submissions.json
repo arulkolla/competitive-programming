@@ -1,4 +1,20 @@
 {
+  "AC18536962": {
+    "contest_id": "abc050",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc050/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Lining Up",
+    "problem_url": "https://atcoder.jp/contests/abc050/tasks/arc066_a",
+    "submission_id": "AC18536962",
+    "submission_url": "https://atcoder.jp/contests/abc050/submissions/18536962",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/02/2020 12:47"
+  },
   "AC18536983": {
     "contest_id": "abc051",
     "language": "C++ (GCC 9.2.1)",
