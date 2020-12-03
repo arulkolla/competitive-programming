@@ -1,4 +1,20 @@
 {
+  "AC18538376": {
+    "contest_id": "abc057",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc057/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Digits in Multiplication",
+    "problem_url": "https://atcoder.jp/contests/abc057/tasks/abc057_c",
+    "submission_id": "AC18538376",
+    "submission_url": "https://atcoder.jp/contests/abc057/submissions/18538376",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/02/2020 18:12"
+  },
   "AC18652390": {
     "contest_id": "abc060",
     "language": "C++ (GCC 9.2.1)",
