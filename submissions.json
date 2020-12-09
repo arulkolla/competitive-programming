@@ -1,4 +1,21 @@
 {
+  "CF100791012": {
+    "contest_id": 371,
+    "language": "GNU C++14",
+    "path": "codeforces/371/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Hamburgers",
+    "problem_url": "https://codeforces.com/contest/371/problem/C",
+    "submission_id": "CF100791012",
+    "submission_url": "https://codeforces.com/contest/371/submission/100791012",
+    "tags": [
+      "binary search",
+      "brute force",
+      "*1600"
+    ],
+    "timestamp": "Dec/09/2020 11:21"
+  },
   "CF101595347": {
     "contest_id": 1027,
     "language": "GNU C++14",
