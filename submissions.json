@@ -1,4 +1,20 @@
 {
+  "AC18652390": {
+    "contest_id": "abc060",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc060/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Sentou",
+    "problem_url": "https://atcoder.jp/contests/abc060/tasks/arc073_a",
+    "submission_id": "AC18652390",
+    "submission_url": "https://atcoder.jp/contests/abc060/submissions/18652390",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Dec/08/2020 21:14"
+  },
   "AC18652453": {
     "contest_id": "abc063",
     "language": "C++ (GCC 9.2.1)",
