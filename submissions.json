@@ -1,4 +1,25 @@
 {
+  "CF101596976": {
+    "contest_id": 500,
+    "language": "GNU C++14",
+    "path": "codeforces/500/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "New Year Permutation",
+    "problem_url": "https://codeforces.com/contest/500/problem/B",
+    "submission_id": "CF101596976",
+    "submission_url": "https://codeforces.com/contest/500/submission/101596976",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "math",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Dec/17/2020 13:50"
+  },
   "CF101597602": {
     "contest_id": 34,
     "language": "GNU C++14",
