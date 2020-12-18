@@ -1,4 +1,20 @@
 {
+  "CF101604718": {
+    "contest_id": 280,
+    "language": "GNU C++14",
+    "path": "codeforces/280/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rectangle Puzzle",
+    "problem_url": "https://codeforces.com/contest/280/problem/A",
+    "submission_id": "CF101604718",
+    "submission_url": "https://codeforces.com/contest/280/submission/101604718",
+    "tags": [
+      "geometry",
+      "*2000"
+    ],
+    "timestamp": "Dec/17/2020 19:35"
+  },
   "CF101674400": {
     "contest_id": 235,
     "language": "GNU C++14",
