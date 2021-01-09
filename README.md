@@ -13,19 +13,20 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-296 | [D - Polyline](https://codeforces.com/contest/617/problem/D) | [GNU C++14](./codeforces/617/D.cpp) | `constructive algorithms` `implementation` `*1700` | Jan/31/2021 13:41 | 
-295 | [A - Save Energy!](https://codeforces.com/contest/936/problem/A) | [GNU C++14](./codeforces/936/A.cpp) | `binary search` `implementation` `math` `*1700` | Jan/31/2021 12:24 | 
-294 | [D - Artsem and Saunders](https://codeforces.com/contest/765/problem/D) | [GNU C++14](./codeforces/765/D.cpp) | `constructive algorithms` `dsu` `math` `*1700` | Jan/30/2021 22:54 | 
-293 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++14](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/30/2021 09:08 | 
-292 | [D - Div Game](https://atcoder.jp/contests/abc169/tasks/abc169_d) | [C++ (GCC 9.2.1)](./atcoder/abc169/D.cpp) | `AtCoder` `*400` | Jan/23/2021 21:34 | 
-291 | [A - Cows and Sequence](https://codeforces.com/contest/283/problem/A) | [GNU C++14](./codeforces/283/A.cpp) | `constructive algorithms` `data structures` `implementation` `*1600` | Jan/19/2021 17:31 | 
-290 | [E - Military Problem](https://codeforces.com/contest/1006/problem/E) | [GNU C++14](./codeforces/1006/E.cpp) | `dfs and similar` `graphs` `trees` `*1600` | Jan/19/2021 16:51 | 
-289 | [E - Squares and not squares](https://codeforces.com/contest/898/problem/E) | [GNU C++14](./codeforces/898/E.cpp) | `constructive algorithms` `greedy` `*1600` | Jan/19/2021 14:19 | 
-288 | [C - Fox And Names](https://codeforces.com/contest/510/problem/C) | [GNU C++14](./codeforces/510/C.cpp) | `dfs and similar` `graphs` `sortings` `*1600` | Jan/19/2021 12:46 | 
-287 | [C - Andryusha and Colored Balloons](https://codeforces.com/contest/780/problem/C) | [GNU C++14](./codeforces/780/C.cpp) | `dfs and similar` `graphs` `greedy` `trees` `*1600` | Jan/18/2021 23:14 | 
-286 | [C - Nastya and a Wardrobe](https://codeforces.com/contest/992/problem/C) | [GNU C++14](./codeforces/992/C.cpp) | `math` `*1600` | Jan/13/2021 16:18 | 
-285 | [C - Quiz](https://codeforces.com/contest/337/problem/C) | [GNU C++14](./codeforces/337/C.cpp) | `binary search` `greedy` `math` `matrices` `number theory` `*1600` | Jan/13/2021 09:34 | 
-284 | [B - Three-level Laser](https://codeforces.com/contest/924/problem/B) | [GNU C++14](./codeforces/924/B.cpp) | `binary search` `greedy` `two pointers` `*1600` | Jan/12/2021 20:16 | 
+297 | [D - Polyline](https://codeforces.com/contest/617/problem/D) | [GNU C++14](./codeforces/617/D.cpp) | `constructive algorithms` `implementation` `*1700` | Jan/31/2021 13:41 | 
+296 | [A - Save Energy!](https://codeforces.com/contest/936/problem/A) | [GNU C++14](./codeforces/936/A.cpp) | `binary search` `implementation` `math` `*1700` | Jan/31/2021 12:24 | 
+295 | [D - Artsem and Saunders](https://codeforces.com/contest/765/problem/D) | [GNU C++14](./codeforces/765/D.cpp) | `constructive algorithms` `dsu` `math` `*1700` | Jan/30/2021 22:54 | 
+294 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++14](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/30/2021 09:08 | 
+293 | [D - Div Game](https://atcoder.jp/contests/abc169/tasks/abc169_d) | [C++ (GCC 9.2.1)](./atcoder/abc169/D.cpp) | `AtCoder` `*400` | Jan/23/2021 21:34 | 
+292 | [A - Cows and Sequence](https://codeforces.com/contest/283/problem/A) | [GNU C++14](./codeforces/283/A.cpp) | `constructive algorithms` `data structures` `implementation` `*1600` | Jan/19/2021 17:31 | 
+291 | [E - Military Problem](https://codeforces.com/contest/1006/problem/E) | [GNU C++14](./codeforces/1006/E.cpp) | `dfs and similar` `graphs` `trees` `*1600` | Jan/19/2021 16:51 | 
+290 | [E - Squares and not squares](https://codeforces.com/contest/898/problem/E) | [GNU C++14](./codeforces/898/E.cpp) | `constructive algorithms` `greedy` `*1600` | Jan/19/2021 14:19 | 
+289 | [C - Fox And Names](https://codeforces.com/contest/510/problem/C) | [GNU C++14](./codeforces/510/C.cpp) | `dfs and similar` `graphs` `sortings` `*1600` | Jan/19/2021 12:46 | 
+288 | [C - Andryusha and Colored Balloons](https://codeforces.com/contest/780/problem/C) | [GNU C++14](./codeforces/780/C.cpp) | `dfs and similar` `graphs` `greedy` `trees` `*1600` | Jan/18/2021 23:14 | 
+287 | [C - Nastya and a Wardrobe](https://codeforces.com/contest/992/problem/C) | [GNU C++14](./codeforces/992/C.cpp) | `math` `*1600` | Jan/13/2021 16:18 | 
+286 | [C - Quiz](https://codeforces.com/contest/337/problem/C) | [GNU C++14](./codeforces/337/C.cpp) | `binary search` `greedy` `math` `matrices` `number theory` `*1600` | Jan/13/2021 09:34 | 
+285 | [B - Three-level Laser](https://codeforces.com/contest/924/problem/B) | [GNU C++14](./codeforces/924/B.cpp) | `binary search` `greedy` `two pointers` `*1600` | Jan/12/2021 20:16 | 
+284 | [E - Sequence Matching](https://atcoder.jp/contests/abc185/tasks/abc185_e) | [C++ (GCC 9.2.1)](./atcoder/abc185/E.cpp) | `AtCoder` `*500` | Jan/08/2021 22:43 | 
 283 | [D - Strange Definition](https://codeforces.com/contest/1471/problem/D) | [GNU C++14](./codeforces/1471/D.cpp) | `bitmasks` `graphs` `hashing` `math` `number theory` `*1900` | Jan/05/2021 09:45 | 
 282 | [C - Strange Birthday Party](https://codeforces.com/contest/1471/problem/C) | [GNU C++14](./codeforces/1471/C.cpp) | `brute force` `greedy` `sortings` `*1300` | Jan/05/2021 07:14 | 
 281 | [B - Strange List](https://codeforces.com/contest/1471/problem/B) | [GNU C++14](./codeforces/1471/B.cpp) | `brute force` `greedy` `implementation` `math` `*1100` | Jan/05/2021 06:59 | 
