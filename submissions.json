@@ -1,4 +1,20 @@
 {
+  "AC19273532": {
+    "contest_id": "abc185",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc185/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Duodecim Ferra",
+    "problem_url": "https://atcoder.jp/contests/abc185/tasks/abc185_c",
+    "submission_id": "AC19273532",
+    "submission_url": "https://atcoder.jp/contests/abc185/submissions/19273532",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Jan/08/2021 21:28"
+  },
   "AC19273700": {
     "contest_id": "abc185",
     "language": "C++ (GCC 9.2.1)",
