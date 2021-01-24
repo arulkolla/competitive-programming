@@ -6,16 +6,18 @@ Submissions
 
 A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/flamestorm.svg)](https://codeforces.com/profile/flamestorm)
+* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/flamestorm.svg)](https://atcoder.jp/users/flamestorm)
 
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-295 | [D - Polyline](https://codeforces.com/contest/617/problem/D) | [GNU C++14](./codeforces/617/D.cpp) | `constructive algorithms` `implementation` `*1700` | Jan/31/2021 13:41 | 
-294 | [A - Save Energy!](https://codeforces.com/contest/936/problem/A) | [GNU C++14](./codeforces/936/A.cpp) | `binary search` `implementation` `math` `*1700` | Jan/31/2021 12:24 | 
-293 | [D - Artsem and Saunders](https://codeforces.com/contest/765/problem/D) | [GNU C++14](./codeforces/765/D.cpp) | `constructive algorithms` `dsu` `math` `*1700` | Jan/30/2021 22:54 | 
-292 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++14](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/30/2021 09:08 | 
+296 | [D - Polyline](https://codeforces.com/contest/617/problem/D) | [GNU C++14](./codeforces/617/D.cpp) | `constructive algorithms` `implementation` `*1700` | Jan/31/2021 13:41 | 
+295 | [A - Save Energy!](https://codeforces.com/contest/936/problem/A) | [GNU C++14](./codeforces/936/A.cpp) | `binary search` `implementation` `math` `*1700` | Jan/31/2021 12:24 | 
+294 | [D - Artsem and Saunders](https://codeforces.com/contest/765/problem/D) | [GNU C++14](./codeforces/765/D.cpp) | `constructive algorithms` `dsu` `math` `*1700` | Jan/30/2021 22:54 | 
+293 | [A - Alyona and mex](https://codeforces.com/contest/739/problem/A) | [GNU C++14](./codeforces/739/A.cpp) | `constructive algorithms` `greedy` `*1700` | Jan/30/2021 09:08 | 
+292 | [D - Div Game](https://atcoder.jp/contests/abc169/tasks/abc169_d) | [C++ (GCC 9.2.1)](./atcoder/abc169/D.cpp) | `AtCoder` `*400` | Jan/23/2021 21:34 | 
 291 | [A - Cows and Sequence](https://codeforces.com/contest/283/problem/A) | [GNU C++14](./codeforces/283/A.cpp) | `constructive algorithms` `data structures` `implementation` `*1600` | Jan/19/2021 17:31 | 
 290 | [E - Military Problem](https://codeforces.com/contest/1006/problem/E) | [GNU C++14](./codeforces/1006/E.cpp) | `dfs and similar` `graphs` `trees` `*1600` | Jan/19/2021 16:51 | 
 289 | [E - Squares and not squares](https://codeforces.com/contest/898/problem/E) | [GNU C++14](./codeforces/898/E.cpp) | `constructive algorithms` `greedy` `*1600` | Jan/19/2021 14:19 | 
