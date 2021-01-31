@@ -746,6 +746,23 @@
     ],
     "timestamp": "Jan/05/2021 09:45"
   },
+  "CF106141364": {
+    "contest_id": 617,
+    "language": "GNU C++14",
+    "path": "codeforces/617/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Polyline",
+    "problem_url": "https://codeforces.com/contest/617/problem/D",
+    "submission_id": "CF106141364",
+    "submission_url": "https://codeforces.com/contest/617/submission/106141364",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Jan/31/2021 13:41"
+  },
   "CF74344316": {
     "contest_id": 1311,
     "language": "GNU C++14",
