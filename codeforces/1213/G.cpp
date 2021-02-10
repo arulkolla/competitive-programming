@@ -8,18 +8,19 @@
 
 #include <bits/stdc++.h>
 
+#define int long long
+
 using namespace std;
 
 const int MAX = 200007;
 const int MOD = 1000000007;
 
-int a[MAX], sz[MAX];
-long long cnt[MAX];
+int a[MAX], sz[MAX], cnt[MAX];
 
 long long res = 0;
  
-long long f(long long n) {
-    return (n * (n - 1)) / 2;
+long long f(int n) {
+    return ((n * 1LL * (n - 1)) / 2);
 } 
  
 int find(int p) {
@@ -73,7 +74,7 @@ void solve() {
 	sort(p, p + v - 1);
 	
 	int curr = 1;
-	long long ans[MAX] = {};
+	int ans[MAX] = {};
 	for (int i = 0; i < v - 1; i++) {
 	    while (curr < p[i].first) {
 	        ans[curr] = res;
@@ -86,12 +87,12 @@ void solve() {
 	for (int i = 0; i < q; i++) {
 	    int x;
 	    cin >> x;
-	    if (x >= curr) {cout << f((long long)v) << ' ';}
+	    if (x >= curr) {cout << f(v) << ' ';}
 	    else {cout << ans[x] << ' ';}
 	}
 }
 
-int main() {
+signed main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
     //freopen("in.in", "r", stdin); freopen("out.out", "w", stdout);

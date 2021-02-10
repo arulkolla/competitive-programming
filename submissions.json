@@ -1888,6 +1888,26 @@
     ],
     "timestamp": "Jan/31/2021 13:41"
   },
+  "CF107076890": {
+    "contest_id": 1213,
+    "language": "GNU C++14",
+    "path": "codeforces/1213/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Path Queries",
+    "problem_url": "https://codeforces.com/contest/1213/problem/G",
+    "submission_id": "CF107076890",
+    "submission_url": "https://codeforces.com/contest/1213/submission/107076890",
+    "tags": [
+      "divide and conquer",
+      "dsu",
+      "graphs",
+      "sortings",
+      "trees",
+      "*1800"
+    ],
+    "timestamp": "Feb/10/2021 08:46"
+  },
   "CF107077479": {
     "contest_id": 1213,
     "language": "GNU C++14",
