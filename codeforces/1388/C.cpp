@@ -45,6 +45,9 @@ void dgs(int v) {
 	long sum = 0;
 	for (int i : dg[v]) {
 		sum += kannawoah[i];
+		if (kannawoah[i] > kannawoah[v]) {
+			fail = true;
+		}
 	}
 	if (sum > kannawoah[v]) {
 		fail = true;
