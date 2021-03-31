@@ -13,14 +13,15 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-369 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [GNU C++14](./codeforces/1504/C.cpp) | `constructive algorithms` `greedy` | Apr/03/2021 09:03 | 
-368 | [D - 3-Coloring](https://codeforces.com/contest/1504/problem/D) | [GNU C++14](./codeforces/1504/D.cpp) | `constructive algorithms` `games` `graphs` `interactive` | Apr/03/2021 08:42 | 
-367 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [GNU C++14](./codeforces/1504/B.cpp) | `greedy` `implementation` `math` `math` | Apr/03/2021 07:50 | 
-366 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [GNU C++14](./codeforces/1504/A.cpp) | `constructive algorithms` | Apr/03/2021 07:39 | 
-365 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++14](./codeforces/1505/C.cpp) | `constructive algorithms` `implementation` | Apr/01/2021 09:25 | 
-364 | [F - Math](https://codeforces.com/contest/1505/problem/F) | [GNU C++14](./codeforces/1505/F.cpp) | `constructive algorithms` `math` | Apr/01/2021 08:40 | 
-363 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [GNU C++14](./codeforces/1505/B.cpp) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 08:26 | 
-362 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [GNU C++14](./codeforces/1505/A.cpp) | `implementation` `interactive` | Apr/01/2021 08:01 | 
+370 | [C - Balance the Bits](https://codeforces.com/contest/1504/problem/C) | [GNU C++14](./codeforces/1504/C.cpp) | `constructive algorithms` `greedy` | Apr/03/2021 09:03 | 
+369 | [D - 3-Coloring](https://codeforces.com/contest/1504/problem/D) | [GNU C++14](./codeforces/1504/D.cpp) | `constructive algorithms` `games` `graphs` `interactive` | Apr/03/2021 08:42 | 
+368 | [B - Flip the Bits](https://codeforces.com/contest/1504/problem/B) | [GNU C++14](./codeforces/1504/B.cpp) | `greedy` `implementation` `math` `math` | Apr/03/2021 07:50 | 
+367 | [A -  Déjà Vu](https://codeforces.com/contest/1504/problem/A) | [GNU C++14](./codeforces/1504/A.cpp) | `constructive algorithms` | Apr/03/2021 07:39 | 
+366 | [C - Fibonacci Words](https://codeforces.com/contest/1505/problem/C) | [GNU C++14](./codeforces/1505/C.cpp) | `constructive algorithms` `implementation` | Apr/01/2021 09:25 | 
+365 | [F - Math](https://codeforces.com/contest/1505/problem/F) | [GNU C++14](./codeforces/1505/F.cpp) | `constructive algorithms` `math` | Apr/01/2021 08:40 | 
+364 | [B - DMCA](https://codeforces.com/contest/1505/problem/B) | [GNU C++14](./codeforces/1505/B.cpp) | `constructive algorithms` `implementation` `number theory` | Apr/01/2021 08:26 | 
+363 | [A - Is it rated - 2](https://codeforces.com/contest/1505/problem/A) | [GNU C++14](./codeforces/1505/A.cpp) | `implementation` `interactive` | Apr/01/2021 08:01 | 
+362 | [E - Tetrahedron](https://codeforces.com/contest/166/problem/E) | [GNU C++14](./codeforces/166/E.cpp) | `dp` `math` `matrices` `*1500` | Mar/30/2021 18:30 | 
 361 | [D - Multiples and Power Differences](https://codeforces.com/contest/1485/problem/D) | [GNU C++14](./codeforces/1485/D.cpp) | `constructive algorithms` `math` `number theory` `*2200` | Feb/12/2021 07:32 | 
 360 | [B - Replace and Keep Sorted](https://codeforces.com/contest/1485/problem/B) | [GNU C++14](./codeforces/1485/B.cpp) | `dp` `implementation` `math` `*1200` | Feb/12/2021 07:21 | 
 359 | [A - Add and Divide](https://codeforces.com/contest/1485/problem/A) | [GNU C++14](./codeforces/1485/A.cpp) | `brute force` `greedy` `math` `ternary search` `*1000` | Feb/12/2021 07:09 | 
