@@ -5,6 +5,12 @@ using namespace std;
 const int MAX = 200007;
 const int MOD = 1000000007;
 
+vector<long long> f(MAX);
+
+char tc(int x) {
+    return ('a' + (x));
+}
+
 void solve() {
 	int n, k;
 	cin >> n >> k;
@@ -12,8 +18,8 @@ void solve() {
 	string s;
 	for (int i = 2 * k - 1; i >= 0; i -= 2) {
 	    for (int j = 0; j < i; j++) {
-	        if (j % 2 == 1) {s += ('a' + now);}
-	        else {s += ('a' + (now + j / 2));}
+	        if (j % 2 == 1) {s += tc(now);}
+	        else {s += tc(now + (j / 2));}
 	    }
 	    now++;
 	}
