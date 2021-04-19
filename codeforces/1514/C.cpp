@@ -13,6 +13,11 @@ long long gcd(long long a, long long b) {
 void solve() {
 	long long n;
 	cin >> n;
+	long long inv[n + 7];
+	inv[1] = 1;
+	for (long long i = 2; i < n; i++) {
+		inv[i] = n - (n / i) * inv[n % i] % n;
+	}
 	vector<long long> res, alt;
 	for (long long i = 1; i <= n - 1; i++) {
 		if (gcd(i, n) == 1) {
@@ -24,10 +29,16 @@ void solve() {
 		prod *= i;
 		prod %= n;
 	}
+	long long bad;
+	bool triggered = false;
 	if (prod != 1) {
+		for (long long i : res) {
+			if ((prod * inv[i]) % n == 1) {bad = i; triggered = true;}
+		}
+		assert(triggered);
 		cout << res.size() - 1 << endl;
 		for (long long i : res) {
-			if (i != n - 1) {
+			if (i != bad) {
 				cout << i << ' ';
 			}
 		}
