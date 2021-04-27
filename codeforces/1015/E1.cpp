@@ -49,7 +49,7 @@ void solve() {
 	    res.push_back(make_pair(make_pair(i, j), sz));
 	}
     for (int i = 0; i < n; i++) {
-        for (int j = 0; j < m; j++) {
+        for (int j = 0; j < n; j++) {
             if (a[i][j] == '*' && !marked[i][j]) {
                 cout << -1 << endl; return;
             }
