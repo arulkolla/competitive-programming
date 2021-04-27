@@ -2604,6 +2604,24 @@
     ],
     "timestamp": "Apr/21/2021 09:16"
   },
+  "CF114383395": {
+    "contest_id": 1015,
+    "language": "GNU C++14",
+    "path": "codeforces/1015/E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Stars Drawing (Easy Edition)",
+    "problem_url": "https://codeforces.com/contest/1015/problem/E1",
+    "submission_id": "CF114383395",
+    "submission_url": "https://codeforces.com/contest/1015/submission/114383395",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Apr/27/2021 09:35"
+  },
   "CF114415105": {
     "contest_id": 839,
     "language": "GNU C++14",
