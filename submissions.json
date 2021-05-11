@@ -927,6 +927,22 @@
     ],
     "timestamp": "Jan/23/2021 21:34"
   },
+  "AC22526587": {
+    "contest_id": "arc116",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/arc116/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Products of Min-Max",
+    "problem_url": "https://atcoder.jp/contests/arc116/tasks/arc116_b",
+    "submission_id": "AC22526587",
+    "submission_url": "https://atcoder.jp/contests/arc116/submissions/22526587",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "May/11/2021 09:18"
+  },
   "CF100158184": {
     "contest_id": 160,
     "language": "GNU C++14",
