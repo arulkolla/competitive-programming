@@ -927,6 +927,22 @@
     ],
     "timestamp": "Jan/23/2021 21:34"
   },
+  "AC22526504": {
+    "contest_id": "arc118",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/arc118/C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Coprime Set",
+    "problem_url": "https://atcoder.jp/contests/arc118/tasks/arc118_c",
+    "submission_id": "AC22526504",
+    "submission_url": "https://atcoder.jp/contests/arc118/submissions/22526504",
+    "tags": [
+      "AtCoder",
+      "*500"
+    ],
+    "timestamp": "May/11/2021 09:12"
+  },
   "AC22526587": {
     "contest_id": "arc116",
     "language": "C++ (GCC 9.2.1)",
