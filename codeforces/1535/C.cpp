@@ -18,7 +18,7 @@ void solve() {
 	int n = s.size();
 	long long dp[n + 7];
 	dp[0] = 1;
-	int curr = -1, qcount = 1, qs = 0;
+	long long curr = -1, qcount = 1, qs = 0;
 	if (s[0] == '0') {curr = 1;}
 	if (s[0] == '1') {curr = 0;}
 	if (s[0] == '?') {qs++;}
