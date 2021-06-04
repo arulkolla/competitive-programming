@@ -29,7 +29,10 @@ void solve() {
 			}
 		}
 	}
-
+	// for (int i = 1; i < n; i++) {
+		// cout << a[i] << ' ';
+	// }
+	// cout << endl;
 	int q;
 	cin >> q;
 	int ind;
@@ -39,6 +42,7 @@ void solve() {
 		ind = n - ind;
 		s[ind] = now;
 		int rn = ind;
+		// cout << s << endl;
 		if (ind > (1 << (k - 1)) - 1) {
 			if (now != '?') {a[ind] = 1;}
 			else {a[ind] = 2;}
@@ -59,6 +63,10 @@ void solve() {
 			else {a[rn] = a[rn * 2] + a[rn * 2 + 1];}
 		}
 		cout << a[1] << endl;
+		// for (int i = 1; i < n; i++) {
+		// cout << a[i] << ' ';
+	
+
 	}
 }
 
