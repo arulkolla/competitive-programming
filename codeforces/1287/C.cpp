@@ -5,12 +5,15 @@ using namespace std;
 const int MAX = 107;
 const int MOD = 1000000007;
 
-int n, a[107], dp[107][57][57][3];
+#define wat(...) "[" << #__VA_ARGS__ ": " << (__VA_ARGS__) << "] "
+
+int n;
+int a[MAX];
+int dp[107][57][57][3];
 
 int f(int pos, int r, int b, int after) {
-	if (dp[pos][r][b][after] != -1) {
-		return dp[pos][r][b][after];
-	}
+	if (dp[pos][r][b][after] != -1) {return dp[pos][r][b][after];}
+	// cout << wat(pos) << wat(r) << wat(b) << wat(after) << "started." << endl;
 	if (pos == 1) {
 		int res;
 		if (r > 0 || a[pos] == 1) {
@@ -24,16 +27,20 @@ int f(int pos, int r, int b, int after) {
 		else {
 			res = 0;
 		}
+		// cout << wat(pos) << wat(r) << wat(b) << wat(after) << "returns: ";
+		// cout << wat(res) << endl;
 		return res;
 	}
 	int mn = MOD;
 	if (a[pos] != 0) {
 		if (a[pos] == 1) {
+			// this is red
 			int res = f(pos - 1, r, b, 1);
 			if (after == 2) {res++;}
 			mn = min(mn, res);
 		}
 		else {
+			// this is blue
 			int res = f(pos - 1, r, b, 2);
 			if (after == 1) {res++;}
 			mn = min(mn, res);
@@ -41,16 +48,20 @@ int f(int pos, int r, int b, int after) {
 	}
 	else {
 		if (r > 0) {
+			// test red
 			int res = f(pos - 1, r - 1, b, 1);
 			if (after == 2) {res++;}
 			mn = min(mn, res);
 		}
 		if (b > 0) {
+			// test blue
 			int res = f(pos - 1, r, b - 1, 2);
 			if (after == 1) {res++;}
 			mn = min(mn, res);
 		}
 	}
+	// cout << wat(pos) << wat(r) << wat(b) << wat(after) << "returns: ";
+	// cout << wat(mn) << endl;
 	dp[pos][r][b][after] = mn;
 	return mn;
 }
