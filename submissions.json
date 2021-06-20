@@ -2945,6 +2945,25 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF120034956": {
+    "contest_id": 1041,
+    "language": "GNU C++14",
+    "path": "codeforces/1041/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Tree Reconstruction",
+    "problem_url": "https://codeforces.com/contest/1041/problem/E",
+    "submission_id": "CF120034956",
+    "submission_url": "https://codeforces.com/contest/1041/submission/120034956",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "graphs",
+      "greedy",
+      "*1900"
+    ],
+    "timestamp": "Jun/19/2021 19:37"
+  },
   "CF120151935": {
     "contest_id": 362,
     "language": "GNU C++14",
