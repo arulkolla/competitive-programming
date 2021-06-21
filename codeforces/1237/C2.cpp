@@ -35,6 +35,9 @@ void solve() {
 			i--;
 		}
 	}
+	if (points2.size() % 2 == 1) {
+		points2.push_back(points1[points1.size() - 1]);
+	}
 	assert(points2.size() % 2 == 0);
 	vector<pt> points3;
 	for (int i = 0; i < points2.size(); i += 2) {
@@ -45,6 +48,9 @@ void solve() {
 			points3.push_back(points2[i]);
 			i--;
 		}
+	}
+	if (points3.size() % 2 == 1) {
+		points3.push_back(points2[points2.size() - 1]);
 	}
 	assert(points3.size() % 2 == 0);
 	for (int i = 0; i < points3.size(); i += 2) {
