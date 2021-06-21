@@ -2945,6 +2945,23 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF120247249": {
+    "contest_id": 1183,
+    "language": "GNU C++14",
+    "path": "codeforces/1183/H.cpp",
+    "platform": "Codeforces",
+    "problem_index": "H",
+    "problem_name": "Subsequences (hard version)",
+    "problem_url": "https://codeforces.com/contest/1183/problem/H",
+    "submission_id": "CF120247249",
+    "submission_url": "https://codeforces.com/contest/1183/submission/120247249",
+    "tags": [
+      "dp",
+      "strings",
+      "*1900"
+    ],
+    "timestamp": "Jun/21/2021 16:40"
+  },
   "CF120247348": {
     "contest_id": 1183,
     "language": "GNU C++14",
