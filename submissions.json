@@ -2945,6 +2945,25 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF124620284": {
+    "contest_id": 1549,
+    "language": "GNU C++14",
+    "path": "codeforces/1549/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Integers Have Friends",
+    "problem_url": "https://codeforces.com/contest/1549/problem/D",
+    "submission_id": "CF124620284",
+    "submission_url": "https://codeforces.com/contest/1549/submission/124620284",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "two pointers",
+      "*1800"
+    ],
+    "timestamp": "Aug/01/2021 14:25"
+  },
   "CF124620315": {
     "contest_id": 1549,
     "language": "GNU C++14",
