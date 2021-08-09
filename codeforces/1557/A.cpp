@@ -14,7 +14,7 @@ void solve() {
 		sum += a[i];
 		mx = max(mx, a[i]);
 	}
-	cout << fixed << setprecision(10) << (sum - mx) / (long double)(n - 1) + mx << endl;
+	cout << fixed << setprecision(10) << (sum - mx) / (long double)(n - 1) + mx << '\n';
 }
 
 int main() {
