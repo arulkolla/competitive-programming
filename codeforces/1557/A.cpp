@@ -8,7 +8,7 @@ const int MOD = 1000000007;
 void solve() {
 	int n;
 	cin >> n;
-	double a[n + 7];
+	long double a[n + 7];
 	for (int i = 0; i < n; i++) {
 		cin >> a[i];
 	}
