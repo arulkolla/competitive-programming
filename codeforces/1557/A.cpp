@@ -8,16 +8,16 @@ const int MOD = 1000000007;
 void solve() {
 	int n;
 	cin >> n;
-	long double a[n + 7];
+	int a[n + 7];
 	for (int i = 0; i < n; i++) {
 		cin >> a[i];
 	}
 	sort(a, a + n);
-	long double res = a[n - 1];
+	double res = (double)a[n - 1];
 	for (int i = 0; i < n - 1; i++) {
-		res += (a[i]) / (n - 1);
+		res += (a[i]) / (double)(n - 1);
 	}
-	cout << fixed << setprecision(17) << res << '\n';
+	cout << fixed << setprecision(10) << res << '\n';
 }
 
 int main() {
