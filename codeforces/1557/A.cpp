@@ -17,7 +17,7 @@ void solve() {
 	for (int i = 0; i < n - 1; i++) {
 		res += (a[i]) / (n - 1);
 	}
-	cout << fixed << setprecision(17) << res << '\n';
+	cout << fixed << setprecision(17) << res << endl;
 }
 
 int main() {
