@@ -8,12 +8,12 @@ const int MOD = 1000000007;
 void solve() {
 	int n;
 	cin >> n;
-	double a[n + 7];
+	long double a[n + 7];
 	for (int i = 0; i < n; i++) {
 		cin >> a[i];
 	}
 	sort(a, a + n);
-	double res = a[n - 1];
+	long double res = a[n - 1];
 	for (int i = 0; i < n - 1; i++) {
 		res += (a[i]) / (n - 1);
 	}
