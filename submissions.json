@@ -2945,6 +2945,23 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF125793985": {
+    "contest_id": 21,
+    "language": "GNU C++14",
+    "path": "codeforces/21/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Intersection",
+    "problem_url": "https://codeforces.com/contest/21/problem/B",
+    "submission_id": "CF125793985",
+    "submission_url": "https://codeforces.com/contest/21/submission/125793985",
+    "tags": [
+      "implementation",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Aug/13/2021 12:20"
+  },
   "CF125936187": {
     "contest_id": 1559,
     "language": "GNU C++14",
