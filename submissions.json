@@ -2945,6 +2945,22 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF126897245": {
+    "contest_id": 1561,
+    "language": "GNU C++14",
+    "path": "codeforces/1561/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Bottom-Tier Reversals",
+    "problem_url": "https://codeforces.com/contest/1561/problem/E",
+    "submission_id": "CF126897245",
+    "submission_url": "https://codeforces.com/contest/1561/submission/126897245",
+    "tags": [
+      "constructive algorithms",
+      "*2000"
+    ],
+    "timestamp": "Aug/24/2021 09:39"
+  },
   "CF127334829": {
     "contest_id": 1556,
     "language": "GNU C++14",
