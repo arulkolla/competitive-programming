@@ -2945,6 +2945,25 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF127991334": {
+    "contest_id": 1567,
+    "language": "GNU C++14",
+    "path": "codeforces/1567/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Expression Evaluation Error",
+    "problem_url": "https://codeforces.com/contest/1567/problem/D",
+    "submission_id": "CF127991334",
+    "submission_url": "https://codeforces.com/contest/1567/submission/127991334",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*2000"
+    ],
+    "timestamp": "Sep/05/2021 11:55"
+  },
   "CF127991335": {
     "contest_id": 1567,
     "language": "GNU C++14",
