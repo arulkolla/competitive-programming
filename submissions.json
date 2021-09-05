@@ -2945,6 +2945,27 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF127991337": {
+    "contest_id": 1567,
+    "language": "GNU C++14",
+    "path": "codeforces/1567/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "One-Four Overload",
+    "problem_url": "https://codeforces.com/contest/1567/problem/F",
+    "submission_id": "CF127991337",
+    "submission_url": "https://codeforces.com/contest/1567/submission/127991337",
+    "tags": [
+      "2-sat",
+      "constructive algorithms",
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*2700"
+    ],
+    "timestamp": "Sep/05/2021 11:55"
+  },
   "CF128593024": {
     "contest_id": 1566,
     "language": "GNU C++14",
