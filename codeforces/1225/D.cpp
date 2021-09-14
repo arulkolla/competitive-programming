@@ -5,28 +5,29 @@ using namespace std;
 const int MAX = 100007;
 const int MOD = 1000000007;
 
-vector<int> primes;
+vector<long long> primes;
 
-bool isPrime(int n) {
+bool isPrime(long long n) {
 	if (n <= 1) {return false;}
-    for (int i = 2; i * i <= n; i++) {
+    for (long long i = 2; i * i <= n; i++) {
     	if (n % i == 0) {return false;}
     }
     return true;
 }
 
 void solve() {
-	int n, k;
+	long long n, k;
 	cin >> n >> k;
-	int a;
-	map<vector<int>, pair<long long, long long>> mp, mpdiff, mbp, mbdiff;
-	for (int _ = 0; _ < n; _++) {
+	long long a;
+	map<vector<long long>, pair<long long, long long>> mp, mpdiff, mbp, mbdiff;
+	map<long long, long long> mbig;
+	for (long long _ = 0; _ < n; _++) {
 		cin >> a;
-		vector<int> v, vr;
+		vector<long long> v, vr;
 		bool nonzero = false;
 		
-		for (int i : primes) {
-			int cnt = 0;
+		for (long long i : primes) {
+			long long cnt = 0;
 			while (a % i == 0) {
 				a /= i;
 				cnt++;
@@ -81,7 +82,7 @@ int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
     // int tt; cin >> tt; for (int i = 1; i <= tt; i++) {solve();}
-    for (int i = 1; i * i <= MAX; i++) {
+    for (long long i = 1; i * i <= MAX; i++) {
     	if (isPrime(i)) {
     		primes.push_back(i);
     	}
