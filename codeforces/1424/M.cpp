@@ -42,7 +42,7 @@ void solve() {
 			v.push_back(pg[i][j]);
 		}
 	}
-	// ok here's the problem
+	// ok here's the real problem
 	for (string s : v) {
 		for (char c : s) {
 			seen[(int)c - (int)'a'] = true;
