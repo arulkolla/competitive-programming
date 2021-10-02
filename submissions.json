@@ -3413,6 +3413,22 @@
     ],
     "timestamp": "Sep/13/2021 22:12"
   },
+  "CF130512598": {
+    "contest_id": 1184,
+    "language": "GNU C++14",
+    "path": "codeforces/1184/C1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C1",
+    "problem_name": "Heidi and the Turing Test (Easy)",
+    "problem_url": "https://codeforces.com/contest/1184/problem/C1",
+    "submission_id": "CF130512598",
+    "submission_url": "https://codeforces.com/contest/1184/submission/130512598",
+    "tags": [
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "Oct/01/2021 17:48"
+  },
   "CF130518185": {
     "contest_id": 1570,
     "language": "Kotlin 1.4",
