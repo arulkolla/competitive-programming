@@ -2945,6 +2945,23 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF130527730": {
+    "contest_id": 980,
+    "language": "GNU C++14",
+    "path": "codeforces/980/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Posterized",
+    "problem_url": "https://codeforces.com/contest/980/problem/C",
+    "submission_id": "CF130527730",
+    "submission_url": "https://codeforces.com/contest/980/submission/130527730",
+    "tags": [
+      "games",
+      "greedy",
+      "*1700"
+    ],
+    "timestamp": "Oct/01/2021 23:06"
+  },
   "CF130604852": {
     "contest_id": 1335,
     "language": "GNU C++14",
