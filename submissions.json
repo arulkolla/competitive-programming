@@ -2945,6 +2945,24 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF133688081": {
+    "contest_id": 1603,
+    "language": "GNU C++14",
+    "path": "codeforces/1603/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Di-visible Confusion",
+    "problem_url": "https://codeforces.com/contest/1603/problem/A",
+    "submission_id": "CF133688081",
+    "submission_url": "https://codeforces.com/contest/1603/submission/133688081",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*1300"
+    ],
+    "timestamp": "Oct/30/2021 10:30"
+  },
   "CF133688091": {
     "contest_id": 1603,
     "language": "GNU C++14",
