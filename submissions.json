@@ -2945,6 +2945,28 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF135188089": {
+    "contest_id": 1605,
+    "language": "GNU C++14",
+    "path": "codeforces/1605/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Treelabeling",
+    "problem_url": "https://codeforces.com/contest/1605/problem/D",
+    "submission_id": "CF135188089",
+    "submission_url": "https://codeforces.com/contest/1605/submission/135188089",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "games",
+      "greedy",
+      "implementation",
+      "trees",
+      "*2100"
+    ],
+    "timestamp": "Nov/12/2021 11:03"
+  },
   "CF135345890": {
     "contest_id": 1588,
     "language": "GNU C++14",
