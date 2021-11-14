@@ -2945,6 +2945,25 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF135345890": {
+    "contest_id": 1588,
+    "language": "GNU C++14",
+    "path": "codeforces/1588/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Arrays",
+    "problem_url": "https://codeforces.com/contest/1588/problem/A",
+    "submission_id": "CF135345890",
+    "submission_url": "https://codeforces.com/contest/1588/submission/135345890",
+    "tags": [
+      "graph matchings",
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Nov/13/2021 22:13"
+  },
   "CF135504262": {
     "contest_id": 1588,
     "language": "GNU C++14",
