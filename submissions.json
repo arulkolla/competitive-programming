@@ -2945,6 +2945,24 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF135795957": {
+    "contest_id": 597,
+    "language": "GNU C++14",
+    "path": "codeforces/597/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Restaurant",
+    "problem_url": "https://codeforces.com/contest/597/problem/B",
+    "submission_id": "CF135795957",
+    "submission_url": "https://codeforces.com/contest/597/submission/135795957",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Nov/15/2021 13:21"
+  },
   "CF136618745": {
     "contest_id": 1610,
     "language": "GNU C++14",
