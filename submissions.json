@@ -2945,6 +2945,25 @@
     ],
     "timestamp": "May/26/2021 08:22"
   },
+  "CF136667994": {
+    "contest_id": 1610,
+    "language": "GNU C++14",
+    "path": "codeforces/1610/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Not Quite Lee",
+    "problem_url": "https://codeforces.com/contest/1610/problem/D",
+    "submission_id": "CF136667994",
+    "submission_url": "https://codeforces.com/contest/1610/submission/136667994",
+    "tags": [
+      "combinatorics",
+      "dp",
+      "math",
+      "number theory",
+      "*2000"
+    ],
+    "timestamp": "Nov/23/2021 08:32"
+  },
   "CF137094818": {
     "contest_id": 225,
     "language": "GNU C++14",
