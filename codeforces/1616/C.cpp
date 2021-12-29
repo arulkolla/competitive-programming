@@ -4,7 +4,7 @@ using namespace std;
 
 const int MAX = 200007;
 const int MOD = 1000000007;
-const long double EPS = 1e-3;
+const double EPS = 1e-2;
 
 void solve() {
 	int n;
@@ -14,29 +14,28 @@ void solve() {
 		cin >> a[i];
 	}
 	if (n <= 2) {cout << 0 << '\n'; return;}
-	vector<long double> ds;
+	set<double> ds;
 	for (int i = 0; i < n; i++) {
 		for (int j = i + 1; j < n; j++) {
-			ds.push_back((long double)(a[j] - a[i]) / (j - i));
+			ds.insert((double)(a[j] - a[i]) / (j - i));
 		}
 	}
-	cout << fixed << setprecision(5);
 	int mx = 1;
-	for (long double d : ds) {
-		vector<long double> v;
+	for (double d : ds) {
+		vector<double> v;
 		for (int i = 0; i < n; i++) {
 			v.push_back(a[i] - d * i);
 		}
 		sort(v.begin(), v.end());
-		int curr = 1;
-		long double el = v[0];
-		vector<int> szs;
+		int curr = 1, mxx = 1;
+		double el = v[0];
 		for (int i = 1; i < v.size(); i++) {
 			if (v[i] - el <= EPS) {curr++;}
-			else {szs.push_back(curr); el = v[i]; curr = 1;}
+			else {mxx = max(mxx, curr); el = v[i]; curr = 1;}
 		}
-		szs.push_back(curr);
-		mx = max(mx, *max_element(szs.begin(), szs.end()));
+		mxx = max(mxx, curr);
+		
+		mx = max(mx, mxx);
 	}
 	cout << n - mx << '\n';
 }
