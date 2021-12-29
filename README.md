@@ -13,11 +13,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-412 | [A - Vacations](https://codeforces.com/contest/698/problem/A) | [GNU C++14](./codeforces/698/A.cpp) | `dp` `*1400` | Jan/07/2022 23:21 | 
-411 | [E1 - Numerical Sequence (easy version)](https://codeforces.com/contest/1216/problem/E1) | [GNU C++14](./codeforces/1216/E1.cpp) | `binary search` `brute force` `math` `*1900` | Jan/05/2022 00:13 | 
-410 | [C - The Intriguing Obsession](https://codeforces.com/contest/869/problem/C) | [GNU C++14](./codeforces/869/C.cpp) | `combinatorics` `dp` `math` `*1800` | Jan/04/2022 23:30 | 
-409 | [C - Representative Edges](https://codeforces.com/contest/1616/problem/C) | [GNU C++14](./codeforces/1616/C.cpp) | `brute force` `geometry` `implementation` `math` `*1500` | Dec/29/2021 10:01 | 
-408 | [B - Mirror in the String](https://codeforces.com/contest/1616/problem/B) | [GNU C++14](./codeforces/1616/B.cpp) | `greedy` `strings` `*1100` | Dec/29/2021 07:46 | 
+413 | [A - Vacations](https://codeforces.com/contest/698/problem/A) | [GNU C++14](./codeforces/698/A.cpp) | `dp` `*1400` | Jan/07/2022 23:21 | 
+412 | [E1 - Numerical Sequence (easy version)](https://codeforces.com/contest/1216/problem/E1) | [GNU C++14](./codeforces/1216/E1.cpp) | `binary search` `brute force` `math` `*1900` | Jan/05/2022 00:13 | 
+411 | [C - The Intriguing Obsession](https://codeforces.com/contest/869/problem/C) | [GNU C++14](./codeforces/869/C.cpp) | `combinatorics` `dp` `math` `*1800` | Jan/04/2022 23:30 | 
+410 | [C - Representative Edges](https://codeforces.com/contest/1616/problem/C) | [GNU C++14](./codeforces/1616/C.cpp) | `brute force` `geometry` `implementation` `math` `*1500` | Dec/29/2021 10:01 | 
+409 | [B - Mirror in the String](https://codeforces.com/contest/1616/problem/B) | [GNU C++14](./codeforces/1616/B.cpp) | `greedy` `strings` `*1100` | Dec/29/2021 07:46 | 
+408 | [A - Integer Diversity](https://codeforces.com/contest/1616/problem/A) | [GNU C++14](./codeforces/1616/A.cpp) | `implementation` `*800` | Dec/29/2021 07:37 | 
 407 | [B - Game of the Rows](https://codeforces.com/contest/839/problem/B) | [GNU C++14](./codeforces/839/B.cpp) | `brute force` `greedy` `implementation` `*1900` | May/26/2021 08:22 | 
 406 | [A - Ilya and a Colorful Walk](https://codeforces.com/contest/1119/problem/A) | [GNU C++14](./codeforces/1119/A.cpp) | `greedy` `implementation` `*1100` | May/10/2021 22:14 | 
 405 | [H - ZS Shuffles Cards](https://codeforces.com/contest/1392/problem/H) | [GNU C++14](./codeforces/1392/H.cpp) | `combinatorics` `dp` `math` `probabilities` `*3000` | May/10/2021 21:53 | 
