@@ -7129,6 +7129,23 @@
     ],
     "timestamp": "Jan/07/2022 23:21"
   },
+  "CF144092194": {
+    "contest_id": 845,
+    "language": "GNU C++14",
+    "path": "codeforces/845/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chess Tourney",
+    "problem_url": "https://codeforces.com/contest/845/problem/A",
+    "submission_id": "CF144092194",
+    "submission_url": "https://codeforces.com/contest/845/submission/144092194",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*1100"
+    ],
+    "timestamp": "Jan/26/2022 08:45"
+  },
   "CF144365176": {
     "contest_id": 771,
     "language": "GNU C++14",
