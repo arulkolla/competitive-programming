@@ -7129,6 +7129,25 @@
     ],
     "timestamp": "Jan/07/2022 23:21"
   },
+  "CF144887807": {
+    "contest_id": 731,
+    "language": "GNU C++14",
+    "path": "codeforces/731/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Socks",
+    "problem_url": "https://codeforces.com/contest/731/problem/C",
+    "submission_id": "CF144887807",
+    "submission_url": "https://codeforces.com/contest/731/submission/144887807",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Feb/01/2022 14:18"
+  },
   "CF144888032": {
     "contest_id": 1016,
     "language": "GNU C++14",
