@@ -13,16 +13,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-619 | [D - Finding Zero](https://codeforces.com/contest/1634/problem/D) | [GNU C++14](./codeforces/1634/D.cpp) | `constructive algorithms` `greedy` `interactive` | Feb/06/2022 10:01 | 
-618 | [C - OKEA](https://codeforces.com/contest/1634/problem/C) | [GNU C++14](./codeforces/1634/C.cpp) | `constructive algorithms` | Feb/06/2022 06:52 | 
-617 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++14](./codeforces/1634/B.cpp) | `bitmasks` `math` | Feb/06/2022 06:43 | 
-616 | [A - Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | [GNU C++14](./codeforces/1634/A.cpp) | `greedy` `strings` | Feb/06/2022 06:38 | 
-615 | [B - Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | [GNU C++14](./codeforces/1230/B.cpp) | `greedy` `implementation` `*1000` | Feb/02/2022 13:34 | 
-614 | [C - Kicker](https://codeforces.com/contest/411/problem/C) | [GNU C++14](./codeforces/411/C.cpp) | `implementation` `*1700` | Feb/02/2022 13:32 | 
-613 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [GNU C++14](./codeforces/1475/C.cpp) | `combinatorics` `graphs` `math` `*1400` | Feb/02/2022 13:20 | 
-612 | [D - Vasya And The Matrix](https://codeforces.com/contest/1016/problem/D) | [GNU C++14](./codeforces/1016/D.cpp) | `constructive algorithms` `flows` `math` `*1800` | Feb/01/2022 14:28 | 
-611 | [C - Socks](https://codeforces.com/contest/731/problem/C) | [GNU C++14](./codeforces/731/C.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `*1600` | Feb/01/2022 14:18 | 
-610 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++14](./codeforces/1189/A.cpp) | `strings` `*800` | Feb/01/2022 13:34 | 
+620 | [D - Finding Zero](https://codeforces.com/contest/1634/problem/D) | [GNU C++14](./codeforces/1634/D.cpp) | `constructive algorithms` `greedy` `interactive` | Feb/06/2022 10:01 | 
+619 | [C - OKEA](https://codeforces.com/contest/1634/problem/C) | [GNU C++14](./codeforces/1634/C.cpp) | `constructive algorithms` | Feb/06/2022 06:52 | 
+618 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++14](./codeforces/1634/B.cpp) | `bitmasks` `math` | Feb/06/2022 06:43 | 
+617 | [A - Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | [GNU C++14](./codeforces/1634/A.cpp) | `greedy` `strings` | Feb/06/2022 06:38 | 
+616 | [B - Ania and Minimizing](https://codeforces.com/contest/1230/problem/B) | [GNU C++14](./codeforces/1230/B.cpp) | `greedy` `implementation` `*1000` | Feb/02/2022 13:34 | 
+615 | [C - Kicker](https://codeforces.com/contest/411/problem/C) | [GNU C++14](./codeforces/411/C.cpp) | `implementation` `*1700` | Feb/02/2022 13:32 | 
+614 | [C - Ball in Berland](https://codeforces.com/contest/1475/problem/C) | [GNU C++14](./codeforces/1475/C.cpp) | `combinatorics` `graphs` `math` `*1400` | Feb/02/2022 13:20 | 
+613 | [D - Vasya And The Matrix](https://codeforces.com/contest/1016/problem/D) | [GNU C++14](./codeforces/1016/D.cpp) | `constructive algorithms` `flows` `math` `*1800` | Feb/01/2022 14:28 | 
+612 | [C - Socks](https://codeforces.com/contest/731/problem/C) | [GNU C++14](./codeforces/731/C.cpp) | `dfs and similar` `dsu` `graphs` `greedy` `*1600` | Feb/01/2022 14:18 | 
+611 | [A - Keanu Reeves](https://codeforces.com/contest/1189/problem/A) | [GNU C++14](./codeforces/1189/A.cpp) | `strings` `*800` | Feb/01/2022 13:34 | 
+610 | [A - Three Friends](https://codeforces.com/contest/1272/problem/A) | [GNU C++14](./codeforces/1272/A.cpp) | `brute force` `greedy` `math` `sortings` `*900` | Feb/01/2022 11:38 | 
 609 | [A - Vacations](https://codeforces.com/contest/698/problem/A) | [GNU C++14](./codeforces/698/A.cpp) | `dp` `*1400` | Jan/07/2022 23:21 | 
 608 | [E1 - Numerical Sequence (easy version)](https://codeforces.com/contest/1216/problem/E1) | [GNU C++14](./codeforces/1216/E1.cpp) | `binary search` `brute force` `math` `*1900` | Jan/05/2022 00:13 | 
 607 | [C - The Intriguing Obsession](https://codeforces.com/contest/869/problem/C) | [GNU C++14](./codeforces/869/C.cpp) | `combinatorics` `dp` `math` `*1800` | Jan/04/2022 23:30 | 
