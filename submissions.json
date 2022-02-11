@@ -7513,6 +7513,25 @@
     ],
     "timestamp": "Feb/06/2022 10:01"
   },
+  "CF145916936": {
+    "contest_id": 1334,
+    "language": "GNU C++14",
+    "path": "codeforces/1334/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Minimum Euler Cycle",
+    "problem_url": "https://codeforces.com/contest/1334/problem/D",
+    "submission_id": "CF145916936",
+    "submission_url": "https://codeforces.com/contest/1334/submission/145916936",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "implementation",
+      "*1800"
+    ],
+    "timestamp": "Feb/10/2022 22:20"
+  },
   "CF145918336": {
     "contest_id": 1575,
     "language": "GNU C++14",
