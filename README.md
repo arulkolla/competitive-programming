@@ -13,13 +13,14 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-638 | [D - Bouncing Boomerangs](https://codeforces.com/contest/1428/problem/D) | [GNU C++14](./codeforces/1428/D.cpp) | `constructive algorithms` `greedy` `implementation` `*1900` | Feb/27/2022 14:48 | 
-637 | [C1 - Power Transmission (Easy Edition)](https://codeforces.com/contest/1163/problem/C1) | [GNU C++14](./codeforces/1163/C1.cpp) | `brute force` `geometry` `*1900` | Feb/26/2022 15:07 | 
-636 | [C2 - Power Transmission (Hard Edition)](https://codeforces.com/contest/1163/problem/C2) | [GNU C++14](./codeforces/1163/C2.cpp) | `data structures` `geometry` `implementation` `math` `*1900` | Feb/26/2022 15:03 | 
-635 | [C - Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | [GNU C++14](./codeforces/1418/C.cpp) | `dp` `graphs` `greedy` `shortest paths` `*1500` | Feb/24/2022 18:12 | 
-634 | [E - Cars ](https://codeforces.com/contest/1635/problem/E) | [GNU C++14](./codeforces/1635/E.cpp) | `2-sat` `constructive algorithms` `dfs and similar` `dsu` `graphs` `greedy` `sortings` `*2200` | Feb/20/2022 08:25 | 
-633 | [D - Infinite Set](https://codeforces.com/contest/1635/problem/D) | [GNU C++14](./codeforces/1635/D.cpp) | `bitmasks` `dp` `math` `matrices` `number theory` `strings` `*1800` | Feb/20/2022 07:38 | 
-632 | [C - Differential Sorting](https://codeforces.com/contest/1635/problem/C) | [GNU C++14](./codeforces/1635/C.cpp) | `constructive algorithms` `greedy` `*1200` | Feb/20/2022 06:57 | 
+639 | [D - Bouncing Boomerangs](https://codeforces.com/contest/1428/problem/D) | [GNU C++14](./codeforces/1428/D.cpp) | `constructive algorithms` `greedy` `implementation` `*1900` | Feb/27/2022 14:48 | 
+638 | [C1 - Power Transmission (Easy Edition)](https://codeforces.com/contest/1163/problem/C1) | [GNU C++14](./codeforces/1163/C1.cpp) | `brute force` `geometry` `*1900` | Feb/26/2022 15:07 | 
+637 | [C2 - Power Transmission (Hard Edition)](https://codeforces.com/contest/1163/problem/C2) | [GNU C++14](./codeforces/1163/C2.cpp) | `data structures` `geometry` `implementation` `math` `*1900` | Feb/26/2022 15:03 | 
+636 | [C - Mortal Kombat Tower](https://codeforces.com/contest/1418/problem/C) | [GNU C++14](./codeforces/1418/C.cpp) | `dp` `graphs` `greedy` `shortest paths` `*1500` | Feb/24/2022 18:12 | 
+635 | [E - Cars ](https://codeforces.com/contest/1635/problem/E) | [GNU C++14](./codeforces/1635/E.cpp) | `2-sat` `constructive algorithms` `dfs and similar` `dsu` `graphs` `greedy` `sortings` `*2200` | Feb/20/2022 08:25 | 
+634 | [D - Infinite Set](https://codeforces.com/contest/1635/problem/D) | [GNU C++14](./codeforces/1635/D.cpp) | `bitmasks` `dp` `math` `matrices` `number theory` `strings` `*1800` | Feb/20/2022 07:38 | 
+633 | [C - Differential Sorting](https://codeforces.com/contest/1635/problem/C) | [GNU C++14](./codeforces/1635/C.cpp) | `constructive algorithms` `greedy` `*1200` | Feb/20/2022 06:57 | 
+632 | [B - Avoid Local Maximums](https://codeforces.com/contest/1635/problem/B) | [GNU C++14](./codeforces/1635/B.cpp) | `greedy` `*800` | Feb/20/2022 06:48 | 
 631 | [D - Finding Zero](https://codeforces.com/contest/1634/problem/D) | [GNU C++14](./codeforces/1634/D.cpp) | `constructive algorithms` `greedy` `interactive` | Feb/06/2022 10:01 | 
 630 | [C - OKEA](https://codeforces.com/contest/1634/problem/C) | [GNU C++14](./codeforces/1634/C.cpp) | `constructive algorithms` | Feb/06/2022 06:52 | 
 629 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++14](./codeforces/1634/B.cpp) | `bitmasks` `math` | Feb/06/2022 06:43 | 
