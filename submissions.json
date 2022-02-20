@@ -7513,6 +7513,23 @@
     ],
     "timestamp": "Feb/06/2022 10:01"
   },
+  "CF147036985": {
+    "contest_id": 1635,
+    "language": "GNU C++14",
+    "path": "codeforces/1635/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Min Or Sum",
+    "problem_url": "https://codeforces.com/contest/1635/problem/A",
+    "submission_id": "CF147036985",
+    "submission_url": "https://codeforces.com/contest/1635/submission/147036985",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/20/2022 06:36"
+  },
   "CF147046079": {
     "contest_id": 1635,
     "language": "GNU C++14",
