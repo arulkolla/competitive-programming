@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+632 | [D - Bouncing Boomerangs](https://codeforces.com/contest/1428/problem/D) | [GNU C++14](./codeforces/1428/D.cpp) | `constructive algorithms` `greedy` `implementation` `*1900` | Feb/27/2022 14:48 | 
 631 | [D - Finding Zero](https://codeforces.com/contest/1634/problem/D) | [GNU C++14](./codeforces/1634/D.cpp) | `constructive algorithms` `greedy` `interactive` | Feb/06/2022 10:01 | 
 630 | [C - OKEA](https://codeforces.com/contest/1634/problem/C) | [GNU C++14](./codeforces/1634/C.cpp) | `constructive algorithms` | Feb/06/2022 06:52 | 
 629 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++14](./codeforces/1634/B.cpp) | `bitmasks` `math` | Feb/06/2022 06:43 | 
