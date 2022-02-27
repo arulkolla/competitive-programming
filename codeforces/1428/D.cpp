@@ -50,6 +50,12 @@ void solve() {
 		}
 		else {
 			if (free1.empty() && free2.empty() && free3.empty()) {cout << -1 << endl; return;}
+			
+			// int m = MOD;
+			// if (!free1.empty()) {m = min(m, free1.top());}
+			// if (!free2.empty()) {m = min(m, free2.top());}
+			// if (!free3.empty()) {m = min(m, free3.top());}
+			
 			if (!free3.empty()) {
 				v.emplace_back(minh - 1, n - i);
 				v.emplace_back(minh - 1, last3);
