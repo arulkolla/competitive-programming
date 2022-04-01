@@ -7753,6 +7753,24 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF152371941": {
+    "contest_id": 1663,
+    "language": "GNU C++14",
+    "path": "codeforces/1663/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Is it rated - 3",
+    "problem_url": "https://codeforces.com/contest/1663/problem/D",
+    "submission_id": "CF152371941",
+    "submission_url": "https://codeforces.com/contest/1663/submission/152371941",
+    "tags": [
+      "*special problem",
+      "combinatorics",
+      "dp",
+      "math"
+    ],
+    "timestamp": "Apr/01/2022 08:31"
+  },
   "CF153161233": {
     "contest_id": 1661,
     "language": "GNU C++14",
