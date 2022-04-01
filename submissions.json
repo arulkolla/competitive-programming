@@ -7753,6 +7753,24 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF152343933": {
+    "contest_id": 1663,
+    "language": "GNU C++14",
+    "path": "codeforces/1663/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mike's Sequence",
+    "problem_url": "https://codeforces.com/contest/1663/problem/B",
+    "submission_id": "CF152343933",
+    "submission_url": "https://codeforces.com/contest/1663/submission/152343933",
+    "tags": [
+      "*special problem",
+      "divide and conquer",
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Apr/01/2022 08:03"
+  },
   "CF152343969": {
     "contest_id": 1663,
     "language": "GNU C++14",
