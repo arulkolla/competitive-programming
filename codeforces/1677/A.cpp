@@ -10,14 +10,16 @@ long long prefl[MAX][MAX] = {};
 void solve() {
 	int n;
 	cin >> n;
-	int a[n + 1];
-	long long res = 0;
-	for (int i = 1; i <= n; i++) {cin >> a[i];}
+	int a[n + 7];
+	for (int i = 1; i <= n; i++) {
+		cin >> a[i];
+	}
 	for (int i = 1; i <= n; i++) {
 		for (int j = 1; j <= n; j++) {
 			prefl[i][j] = prefl[i][j - 1] + prefl[i - 1][j] - prefl[i - 1][j - 1] + (a[i] < a[j]);
 		}
 	}
+	long long res = 0;
 	for (int i = 2; i <= n; i++) {
 		for (int j = i + 2; j <= n; j++) {
 		    res += (prefl[i - 1][j - 1] - prefl[0][j - 1] - prefl[i - 1][i] + prefl[0][i]) * (a[i] > a[j]);
