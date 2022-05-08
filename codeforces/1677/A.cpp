@@ -9,8 +9,14 @@ void solve() {
 	int n;
 	cin >> n;
 	int a[n + 7];
+	int lcnt = 0, gcnt = 0;
 	for (int i = 1; i <= n; i++) {
 		cin >> a[i];
+	}
+	for (int i = 1; i <= n; i++) {
+		for (int j = i + 2; j <= n; j++) {
+			if (a[i] > a[j]) {gcnt++;}
+		}
 	}
 	long long prefl[n + 7][n + 7];
 	for (int i = 0; i <= n; i++) {
@@ -27,9 +33,13 @@ void solve() {
 	for (int i = 1; i <= n; i++) {
 		for (int j = i + 2; j <= n; j++) {
 			if (a[i] > a[j]) {
-				int from_col = i + 1, to_col = j - 1, from_row = 1, to_row = i - 1;
+				int l = i, r = j;
+				int from_col = l + 1, to_col = r - 1, from_row = 1, to_row = l - 1;
 				if (from_row > to_row || from_col > to_col) {continue;}
-				res += prefl[to_row][to_col] - prefl[from_row - 1][to_col] - prefl[to_row][from_col - 1] + prefl[from_row - 1][from_col - 1];
+				res += prefl[to_row][to_col]
+						- prefl[from_row - 1][to_col]
+						- prefl[to_row][from_col - 1]
+						+ prefl[from_row - 1][from_col - 1];
 			}
 		}
 	}
