@@ -18,7 +18,7 @@ void solve() {
 			if (a[i] > a[j]) {gcnt++;}
 		}
 	}
-	long long prefl[n + 7][n + 7];
+	vector<vector<long long> > prefl(n + 1, vector<long long>(n + 1));
 	for (int i = 0; i <= n; i++) {
 		for (int j = 0; j <= n; j++) {
 			prefl[i][j] = 0LL;
