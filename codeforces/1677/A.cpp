@@ -27,8 +27,9 @@ void solve() {
 	for (int i = 1; i <= n; i++) {
 		for (int j = i + 2; j <= n; j++) {
 			if (a[i] > a[j]) {
-				if (i < 2 || i + 2 > j) {continue;}
-				res += prefl[i - 1][j - 1] - prefl[0][j - 1] - prefl[i - 1][i] + prefl[0][i];
+				int from_col = i + 1, to_col = j - 1, from_row = 1, to_row = i - 1;
+				if (from_row > to_row || from_col > to_col) {continue;}
+				res += prefl[to_row][to_col] - prefl[from_row - 1][to_col] - prefl[to_row][from_col - 1] + prefl[from_row - 1][from_col - 1];
 			}
 		}
 	}
