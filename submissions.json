@@ -7753,6 +7753,26 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF157261713": {
+    "contest_id": 1651,
+    "language": "GNU C++14",
+    "path": "codeforces/1651/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Nearest Excluded Points",
+    "problem_url": "https://codeforces.com/contest/1651/problem/D",
+    "submission_id": "CF157261713",
+    "submission_url": "https://codeforces.com/contest/1651/submission/157261713",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dfs and similar",
+      "graphs",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "May/14/2022 22:30"
+  },
   "CF157349371": {
     "contest_id": 933,
     "language": "GNU C++14",
