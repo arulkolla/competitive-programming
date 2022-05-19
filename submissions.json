@@ -7753,6 +7753,23 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF157739147": {
+    "contest_id": 1684,
+    "language": "GNU C++14",
+    "path": "codeforces/1684/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Z mod X = C",
+    "problem_url": "https://codeforces.com/contest/1684/problem/B",
+    "submission_id": "CF157739147",
+    "submission_url": "https://codeforces.com/contest/1684/submission/157739147",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/19/2022 11:27"
+  },
   "CF157739234": {
     "contest_id": 1684,
     "language": "GNU C++14",
