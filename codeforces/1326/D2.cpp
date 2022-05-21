@@ -4,7 +4,7 @@ using namespace std;
 
 const long long GEN = 31;
 const int MAX = 200007;
-const long long MOD = 696969697LL;
+const long long MOD = 1440551621LL;
 
 long long binpow(long long a, long long b) {
     a %= MOD;
