@@ -7753,6 +7753,23 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF158005042": {
+    "contest_id": 1682,
+    "language": "GNU C++14",
+    "path": "codeforces/1682/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Palindromic Indices",
+    "problem_url": "https://codeforces.com/contest/1682/problem/A",
+    "submission_id": "CF158005042",
+    "submission_url": "https://codeforces.com/contest/1682/submission/158005042",
+    "tags": [
+      "greedy",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/22/2022 07:39"
+  },
   "CF158008140": {
     "contest_id": 1682,
     "language": "GNU C++14",
