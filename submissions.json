@@ -7753,6 +7753,26 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF158815490": {
+    "contest_id": 1619,
+    "language": "GNU C++14",
+    "path": "codeforces/1619/G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Unusual Minesweeper",
+    "problem_url": "https://codeforces.com/contest/1619/problem/G",
+    "submission_id": "CF158815490",
+    "submission_url": "https://codeforces.com/contest/1619/submission/158815490",
+    "tags": [
+      "binary search",
+      "dfs and similar",
+      "dsu",
+      "greedy",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "May/29/2022 09:07"
+  },
   "CF158820445": {
     "contest_id": 1622,
     "language": "GNU C++14",
