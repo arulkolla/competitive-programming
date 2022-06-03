@@ -7753,6 +7753,26 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF159381556": {
+    "contest_id": 1687,
+    "language": "GNU C++14",
+    "path": "codeforces/1687/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Railway System",
+    "problem_url": "https://codeforces.com/contest/1687/problem/B",
+    "submission_id": "CF159381556",
+    "submission_url": "https://codeforces.com/contest/1687/submission/159381556",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "interactive",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jun/03/2022 08:16"
+  },
   "CF159421820": {
     "contest_id": 1688,
     "language": "GNU C++14",
