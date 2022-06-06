@@ -8,7 +8,7 @@ const int MOD = 1000000007;
 void solve() {
 	long long n;
 	cin >> n;
-	cout << 1 - n << ' ' << n << '\n';
+	cout << - n + 1 << ' ' << n << '\n';
 }
 
 int main() {
