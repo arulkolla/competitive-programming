@@ -7753,6 +7753,25 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF159750826": {
+    "contest_id": 1690,
+    "language": "GNU C++14",
+    "path": "codeforces/1690/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Shifting String",
+    "problem_url": "https://codeforces.com/contest/1690/problem/F",
+    "submission_id": "CF159750826",
+    "submission_url": "https://codeforces.com/contest/1690/submission/159750826",
+    "tags": [
+      "graphs",
+      "math",
+      "number theory",
+      "strings",
+      "*1700"
+    ],
+    "timestamp": "Jun/07/2022 07:54"
+  },
   "CF159758284": {
     "contest_id": 1690,
     "language": "GNU C++14",
