@@ -7753,6 +7753,25 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF160125960": {
+    "contest_id": 1689,
+    "language": "GNU C++14",
+    "path": "codeforces/1689/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Lena and Matrix",
+    "problem_url": "https://codeforces.com/contest/1689/problem/D",
+    "submission_id": "CF160125960",
+    "submission_url": "https://codeforces.com/contest/1689/submission/160125960",
+    "tags": [
+      "data structures",
+      "dp",
+      "geometry",
+      "shortest paths",
+      "*1900"
+    ],
+    "timestamp": "Jun/10/2022 11:04"
+  },
   "CF160130372": {
     "contest_id": 1689,
     "language": "GNU C++14",
