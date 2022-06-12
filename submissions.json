@@ -7753,6 +7753,24 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF160355800": {
+    "contest_id": 1697,
+    "language": "GNU C++14",
+    "path": "codeforces/1697/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Guess The String",
+    "problem_url": "https://codeforces.com/contest/1697/problem/D",
+    "submission_id": "CF160355800",
+    "submission_url": "https://codeforces.com/contest/1697/submission/160355800",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "interactive",
+      "*1900"
+    ],
+    "timestamp": "Jun/12/2022 09:30"
+  },
   "CF160837111": {
     "contest_id": 1693,
     "language": "GNU C++14",
