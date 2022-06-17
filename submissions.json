@@ -7753,6 +7753,25 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF160990518": {
+    "contest_id": 1454,
+    "language": "GNU C++14",
+    "path": "codeforces/1454/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Number of Simple Paths",
+    "problem_url": "https://codeforces.com/contest/1454/problem/E",
+    "submission_id": "CF160990518",
+    "submission_url": "https://codeforces.com/contest/1454/submission/160990518",
+    "tags": [
+      "combinatorics",
+      "dfs and similar",
+      "graphs",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "Jun/17/2022 11:49"
+  },
   "CF161048933": {
     "contest_id": 1695,
     "language": "GNU C++14",
