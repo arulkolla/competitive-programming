@@ -7753,6 +7753,24 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF161342928": {
+    "contest_id": 1256,
+    "language": "GNU C++14",
+    "path": "codeforces/1256/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Equalizing Two Strings",
+    "problem_url": "https://codeforces.com/contest/1256/problem/F",
+    "submission_id": "CF161342928",
+    "submission_url": "https://codeforces.com/contest/1256/submission/161342928",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "strings",
+      "*2000"
+    ],
+    "timestamp": "Jun/20/2022 13:40"
+  },
   "CF161733599": {
     "contest_id": 1696,
     "language": "GNU C++14",
