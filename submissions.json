@@ -7753,6 +7753,24 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF162760349": {
+    "contest_id": 1699,
+    "language": "GNU C++14",
+    "path": "codeforces/1699/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Almost Ternary Matrix",
+    "problem_url": "https://codeforces.com/contest/1699/problem/B",
+    "submission_id": "CF162760349",
+    "submission_url": "https://codeforces.com/contest/1699/submission/162760349",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "matrices",
+      "*900"
+    ],
+    "timestamp": "Jul/04/2022 07:40"
+  },
   "CF162772770": {
     "contest_id": 1699,
     "language": "GNU C++14",
