@@ -975,6 +975,22 @@
     ],
     "timestamp": "May/11/2021 09:18"
   },
+  "AC33131883": {
+    "contest_id": "abc259",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc259/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Counterclockwise Rotation",
+    "problem_url": "https://atcoder.jp/contests/abc259/tasks/abc259_b",
+    "submission_id": "AC33131883",
+    "submission_url": "https://atcoder.jp/contests/abc259/submissions/33131883",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Jul/09/2022 09:22"
+  },
   "AC40828819": {
     "contest_id": "abc299",
     "language": "C++ (GCC 9.2.1)",
