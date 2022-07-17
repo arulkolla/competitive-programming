@@ -7753,6 +7753,22 @@
     ],
     "timestamp": "Feb/27/2022 14:48"
   },
+  "CF164661364": {
+    "contest_id": 55,
+    "language": "GNU C++14",
+    "path": "codeforces/55/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Pie or die",
+    "problem_url": "https://codeforces.com/contest/55/problem/C",
+    "submission_id": "CF164661364",
+    "submission_url": "https://codeforces.com/contest/55/submission/164661364",
+    "tags": [
+      "games",
+      "*1900"
+    ],
+    "timestamp": "Jul/17/2022 16:21"
+  },
   "CF164734354": {
     "contest_id": 1706,
     "language": "GNU C++14",
