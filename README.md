@@ -13,9 +13,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-646 | [C - Virus](https://codeforces.com/contest/1704/problem/C) | [GNU C++14](./codeforces/1704/C.cpp) | `greedy` `implementation` `sortings` `*1200` | Jul/31/2022 07:52 | 
-645 | [B - Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | [GNU C++14](./codeforces/1704/B.cpp) | `brute force` `greedy` `implementation` `*1000` | Jul/31/2022 07:15 | 
-644 | [A - Two 0-1 Sequences](https://codeforces.com/contest/1704/problem/A) | [GNU C++14](./codeforces/1704/A.cpp) | `constructive algorithms` `greedy` `*800` | Jul/31/2022 07:15 | 
+647 | [C - Virus](https://codeforces.com/contest/1704/problem/C) | [GNU C++14](./codeforces/1704/C.cpp) | `greedy` `implementation` `sortings` `*1200` | Jul/31/2022 07:52 | 
+646 | [B - Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | [GNU C++14](./codeforces/1704/B.cpp) | `brute force` `greedy` `implementation` `*1000` | Jul/31/2022 07:15 | 
+645 | [A - Two 0-1 Sequences](https://codeforces.com/contest/1704/problem/A) | [GNU C++14](./codeforces/1704/A.cpp) | `constructive algorithms` `greedy` `*800` | Jul/31/2022 07:15 | 
+644 | [D1 - Chopping Carrots (Easy Version)](https://codeforces.com/contest/1706/problem/D1) | [GNU C++14](./codeforces/1706/D1.cpp) | `binary search` `brute force` `constructive algorithms` `greedy` `number theory` `*1700` | Jul/18/2022 08:57 | 
 643 | [D - Bouncing Boomerangs](https://codeforces.com/contest/1428/problem/D) | [GNU C++14](./codeforces/1428/D.cpp) | `constructive algorithms` `greedy` `implementation` `*1900` | Feb/27/2022 14:48 | 
 642 | [C1 - Power Transmission (Easy Edition)](https://codeforces.com/contest/1163/problem/C1) | [GNU C++14](./codeforces/1163/C1.cpp) | `brute force` `geometry` `*1900` | Feb/26/2022 15:07 | 
 641 | [C2 - Power Transmission (Hard Edition)](https://codeforces.com/contest/1163/problem/C2) | [GNU C++14](./codeforces/1163/C2.cpp) | `data structures` `geometry` `implementation` `math` `*1900` | Feb/26/2022 15:03 | 
