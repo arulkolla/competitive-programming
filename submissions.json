@@ -10124,6 +10124,24 @@
     ],
     "timestamp": "Jul/31/2022 07:52"
   },
+  "CF188462219": {
+    "contest_id": 1783,
+    "language": "GNU C++14",
+    "path": "codeforces/1783/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Yet Another Tournament",
+    "problem_url": "https://codeforces.com/contest/1783/problem/C",
+    "submission_id": "CF188462219",
+    "submission_url": "https://codeforces.com/contest/1783/submission/188462219",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jan/08/2023 07:16"
+  },
   "CF188489806": {
     "contest_id": 1783,
     "language": "GNU C++14",
