@@ -13,22 +13,23 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-780 | [D - Strange Housing](https://codeforces.com/contest/1470/problem/D) | [GNU C++14](./codeforces/1470/D.cpp) | `constructive algorithms` `dfs and similar` `graph matchings` `graphs` `greedy` `*2200` | Feb/14/2023 18:34 | 
-779 | [B - Cake Assembly Line](https://codeforces.com/contest/1786/problem/B) | [GNU C++14](./codeforces/1786/B.cpp) | `brute force` `sortings` `*1300` | Feb/05/2023 04:37 | 
-778 | [C - Monsters (easy version)](https://codeforces.com/contest/1786/problem/C) | [GNU C++14](./codeforces/1786/C.cpp) | `greedy` `sortings` `*1000` | Feb/05/2023 04:17 | 
-777 | [A1 - Non-alternating Deck (easy version)](https://codeforces.com/contest/1786/problem/A1) | [GNU C++14](./codeforces/1786/A1.cpp) | `implementation` `*800` | Feb/05/2023 04:11 | 
-776 | [A2 - Alternating Deck (hard version)](https://codeforces.com/contest/1786/problem/A2) | [GNU C++14](./codeforces/1786/A2.cpp) | `implementation` `*800` | Feb/05/2023 04:11 | 
-775 | [C - Remove the Bracket](https://codeforces.com/contest/1787/problem/C) | [GNU C++14](./codeforces/1787/C.cpp) | `dp` `greedy` `math` `*1600` | Jan/29/2023 09:07 | 
-774 | [E - The Harmonization of XOR](https://codeforces.com/contest/1787/problem/E) | [GNU C++14](./codeforces/1787/E.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*2100` | Jan/29/2023 07:08 | 
-773 | [B - Number Factorization](https://codeforces.com/contest/1787/problem/B) | [GNU C++14](./codeforces/1787/B.cpp) | `greedy` `math` `number theory` `*1100` | Jan/29/2023 06:45 | 
-772 | [A - Exponential Equation](https://codeforces.com/contest/1787/problem/A) | [GNU C++14](./codeforces/1787/A.cpp) | `constructive algorithms` `math` `*800` | Jan/29/2023 06:36 | 
-771 | [C - Quiz Master](https://codeforces.com/contest/1777/problem/C) | [GNU C++17](./codeforces/1777/C.cpp) | `binary search` `math` `number theory` `sortings` `two pointers` `*1700` | Jan/21/2023 08:06 | 
-770 | [B - Emordnilap](https://codeforces.com/contest/1777/problem/B) | [GNU C++14](./codeforces/1777/B.cpp) | `combinatorics` `greedy` `math` `*900` | Jan/21/2023 06:47 | 
-769 | [A - Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | [GNU C++14](./codeforces/1777/A.cpp) | `greedy` `math` `*800` | Jan/21/2023 06:38 | 
-768 | [B - Sum](https://codeforces.com/contest/49/problem/B) | [GNU C++14](./codeforces/49/B.cpp) | `math` `*1500` | Jan/11/2023 15:48 | 
-767 | [E - Game of the Year](https://codeforces.com/contest/1783/problem/E) | [GNU C++14](./codeforces/1783/E.cpp) | `brute force` `data structures` `math` `number theory` `*2300` | Jan/08/2023 08:14 | 
-766 | [C - Yet Another Tournament](https://codeforces.com/contest/1783/problem/C) | [GNU C++14](./codeforces/1783/C.cpp) | `binary search` `greedy` `sortings` `*1700` | Jan/08/2023 07:16 | 
-765 | [B - Matrix of Differences](https://codeforces.com/contest/1783/problem/B) | [GNU C++14](./codeforces/1783/B.cpp) | `constructive algorithms` `math` `*1100` | Jan/08/2023 06:48 | 
+781 | [D - Strange Housing](https://codeforces.com/contest/1470/problem/D) | [GNU C++14](./codeforces/1470/D.cpp) | `constructive algorithms` `dfs and similar` `graph matchings` `graphs` `greedy` `*2200` | Feb/14/2023 18:34 | 
+780 | [B - Cake Assembly Line](https://codeforces.com/contest/1786/problem/B) | [GNU C++14](./codeforces/1786/B.cpp) | `brute force` `sortings` `*1300` | Feb/05/2023 04:37 | 
+779 | [C - Monsters (easy version)](https://codeforces.com/contest/1786/problem/C) | [GNU C++14](./codeforces/1786/C.cpp) | `greedy` `sortings` `*1000` | Feb/05/2023 04:17 | 
+778 | [A1 - Non-alternating Deck (easy version)](https://codeforces.com/contest/1786/problem/A1) | [GNU C++14](./codeforces/1786/A1.cpp) | `implementation` `*800` | Feb/05/2023 04:11 | 
+777 | [A2 - Alternating Deck (hard version)](https://codeforces.com/contest/1786/problem/A2) | [GNU C++14](./codeforces/1786/A2.cpp) | `implementation` `*800` | Feb/05/2023 04:11 | 
+776 | [C - Remove the Bracket](https://codeforces.com/contest/1787/problem/C) | [GNU C++14](./codeforces/1787/C.cpp) | `dp` `greedy` `math` `*1600` | Jan/29/2023 09:07 | 
+775 | [E - The Harmonization of XOR](https://codeforces.com/contest/1787/problem/E) | [GNU C++14](./codeforces/1787/E.cpp) | `bitmasks` `constructive algorithms` `greedy` `math` `*2100` | Jan/29/2023 07:08 | 
+774 | [B - Number Factorization](https://codeforces.com/contest/1787/problem/B) | [GNU C++14](./codeforces/1787/B.cpp) | `greedy` `math` `number theory` `*1100` | Jan/29/2023 06:45 | 
+773 | [A - Exponential Equation](https://codeforces.com/contest/1787/problem/A) | [GNU C++14](./codeforces/1787/A.cpp) | `constructive algorithms` `math` `*800` | Jan/29/2023 06:36 | 
+772 | [C - Quiz Master](https://codeforces.com/contest/1777/problem/C) | [GNU C++17](./codeforces/1777/C.cpp) | `binary search` `math` `number theory` `sortings` `two pointers` `*1700` | Jan/21/2023 08:06 | 
+771 | [B - Emordnilap](https://codeforces.com/contest/1777/problem/B) | [GNU C++14](./codeforces/1777/B.cpp) | `combinatorics` `greedy` `math` `*900` | Jan/21/2023 06:47 | 
+770 | [A - Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | [GNU C++14](./codeforces/1777/A.cpp) | `greedy` `math` `*800` | Jan/21/2023 06:38 | 
+769 | [B - Sum](https://codeforces.com/contest/49/problem/B) | [GNU C++14](./codeforces/49/B.cpp) | `math` `*1500` | Jan/11/2023 15:48 | 
+768 | [E - Game of the Year](https://codeforces.com/contest/1783/problem/E) | [GNU C++14](./codeforces/1783/E.cpp) | `brute force` `data structures` `math` `number theory` `*2300` | Jan/08/2023 08:14 | 
+767 | [C - Yet Another Tournament](https://codeforces.com/contest/1783/problem/C) | [GNU C++14](./codeforces/1783/C.cpp) | `binary search` `greedy` `sortings` `*1700` | Jan/08/2023 07:16 | 
+766 | [B - Matrix of Differences](https://codeforces.com/contest/1783/problem/B) | [GNU C++14](./codeforces/1783/B.cpp) | `constructive algorithms` `math` `*1100` | Jan/08/2023 06:48 | 
+765 | [A - Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | [GNU C++14](./codeforces/1783/A.cpp) | `constructive algorithms` `math` `sortings` `*800` | Jan/08/2023 06:43 | 
 764 | [C - Virus](https://codeforces.com/contest/1704/problem/C) | [GNU C++14](./codeforces/1704/C.cpp) | `greedy` `implementation` `sortings` `*1200` | Jul/31/2022 07:52 | 
 763 | [A - Two 0-1 Sequences](https://codeforces.com/contest/1704/problem/A) | [GNU C++14](./codeforces/1704/A.cpp) | `constructive algorithms` `greedy` `*800` | Jul/31/2022 07:15 | 
 762 | [B - Luke is a Foodie](https://codeforces.com/contest/1704/problem/B) | [GNU C++14](./codeforces/1704/B.cpp) | `brute force` `greedy` `implementation` `*1000` | Jul/31/2022 07:15 | 
