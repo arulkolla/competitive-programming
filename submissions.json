@@ -10124,6 +10124,22 @@
     ],
     "timestamp": "Jul/31/2022 07:52"
   },
+  "CF188933738": {
+    "contest_id": 49,
+    "language": "GNU C++14",
+    "path": "codeforces/49/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Sum",
+    "problem_url": "https://codeforces.com/contest/49/problem/B",
+    "submission_id": "CF188933738",
+    "submission_url": "https://codeforces.com/contest/49/submission/188933738",
+    "tags": [
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jan/11/2023 15:48"
+  },
   "CF189974384": {
     "contest_id": 1777,
     "language": "GNU C++14",
