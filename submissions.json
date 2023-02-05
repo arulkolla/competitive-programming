@@ -10124,6 +10124,22 @@
     ],
     "timestamp": "Jul/31/2022 07:52"
   },
+  "CF192284695": {
+    "contest_id": 1786,
+    "language": "GNU C++14",
+    "path": "codeforces/1786/A2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A2",
+    "problem_name": "Alternating Deck (hard version)",
+    "problem_url": "https://codeforces.com/contest/1786/problem/A2",
+    "submission_id": "CF192284695",
+    "submission_url": "https://codeforces.com/contest/1786/submission/192284695",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/05/2023 04:11"
+  },
   "CF192284735": {
     "contest_id": 1786,
     "language": "GNU C++14",
