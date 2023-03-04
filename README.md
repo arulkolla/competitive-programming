@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-783 | [B - Sum Graph](https://codeforces.com/contest/1815/problem/B) | [GNU C++14](./codeforces/1815/B.cpp) | `brute force` `constructive algorithms` `graphs` `implementation` `interactive` `shortest paths` `trees` `*2000` | Apr/09/2023 09:40 | 
-782 | [A - Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | [GNU C++14](./codeforces/1815/A.cpp) | `greedy` `math` `*1300` | Apr/09/2023 07:58 | 
+784 | [B - Sum Graph](https://codeforces.com/contest/1815/problem/B) | [GNU C++14](./codeforces/1815/B.cpp) | `brute force` `constructive algorithms` `graphs` `implementation` `interactive` `shortest paths` `trees` `*2000` | Apr/09/2023 09:40 | 
+783 | [A - Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | [GNU C++14](./codeforces/1815/A.cpp) | `greedy` `math` `*1300` | Apr/09/2023 07:58 | 
+782 | [D - Counting Factorizations](https://codeforces.com/contest/1794/problem/D) | [GNU C++14](./codeforces/1794/D.cpp) | `combinatorics` `divide and conquer` `dp` `math` `number theory` `*1900` | Mar/04/2023 10:56 | 
 781 | [D - Strange Housing](https://codeforces.com/contest/1470/problem/D) | [GNU C++14](./codeforces/1470/D.cpp) | `constructive algorithms` `dfs and similar` `graph matchings` `graphs` `greedy` `*2200` | Feb/14/2023 18:34 | 
 780 | [B - Cake Assembly Line](https://codeforces.com/contest/1786/problem/B) | [GNU C++14](./codeforces/1786/B.cpp) | `brute force` `sortings` `*1300` | Feb/05/2023 04:37 | 
 779 | [C - Monsters (easy version)](https://codeforces.com/contest/1786/problem/C) | [GNU C++14](./codeforces/1786/C.cpp) | `greedy` `sortings` `*1000` | Feb/05/2023 04:17 | 
