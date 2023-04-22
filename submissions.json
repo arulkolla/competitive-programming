@@ -975,6 +975,22 @@
     ],
     "timestamp": "May/11/2021 09:18"
   },
+  "AC40828819": {
+    "contest_id": "abc299",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc299/A.cpp",
+    "platform": "AtCoder",
+    "problem_index": "A",
+    "problem_name": "Treasure Chest",
+    "problem_url": "https://atcoder.jp/contests/abc299/tasks/abc299_a",
+    "submission_id": "AC40828819",
+    "submission_url": "https://atcoder.jp/contests/abc299/submissions/40828819",
+    "tags": [
+      "AtCoder",
+      "*100"
+    ],
+    "timestamp": "Apr/22/2023 05:01"
+  },
   "AC40833180": {
     "contest_id": "abc299",
     "language": "C++ (GCC 9.2.1)",
