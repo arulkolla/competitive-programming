@@ -975,6 +975,22 @@
     ],
     "timestamp": "May/11/2021 09:18"
   },
+  "AC40836032": {
+    "contest_id": "abc299",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder/abc299/B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Trick Taking",
+    "problem_url": "https://atcoder.jp/contests/abc299/tasks/abc299_b",
+    "submission_id": "AC40836032",
+    "submission_url": "https://atcoder.jp/contests/abc299/submissions/40836032",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Apr/22/2023 05:08"
+  },
   "AC40843189": {
     "contest_id": "abc299",
     "language": "C++ (GCC 9.2.1)",
