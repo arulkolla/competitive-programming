@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-791 | [E - Nearest Black Vertex](https://atcoder.jp/contests/abc299/tasks/abc299_e) | [C++ (GCC 9.2.1)](./atcoder/abc299/E.cpp) | `AtCoder` `*500` | Apr/22/2023 05:49 | 
+792 | [E - Nearest Black Vertex](https://atcoder.jp/contests/abc299/tasks/abc299_e) | [C++ (GCC 9.2.1)](./atcoder/abc299/E.cpp) | `AtCoder` `*500` | Apr/22/2023 05:49 | 
+791 | [D - Find by Query](https://atcoder.jp/contests/abc299/tasks/abc299_d) | [C++ (GCC 9.2.1)](./atcoder/abc299/D.cpp) | `AtCoder` `*400` | Apr/22/2023 05:17 | 
 790 | [B - Sum Graph](https://codeforces.com/contest/1815/problem/B) | [GNU C++14](./codeforces/1815/B.cpp) | `brute force` `constructive algorithms` `graphs` `implementation` `interactive` `shortest paths` `trees` `*2000` | Apr/09/2023 09:40 | 
 789 | [A - Ian and Array Sorting](https://codeforces.com/contest/1815/problem/A) | [GNU C++14](./codeforces/1815/A.cpp) | `greedy` `math` `*1300` | Apr/09/2023 07:58 | 
 788 | [D - Counting Factorizations](https://codeforces.com/contest/1794/problem/D) | [GNU C++14](./codeforces/1794/D.cpp) | `combinatorics` `divide and conquer` `dp` `math` `number theory` `*1900` | Mar/04/2023 10:56 | 
